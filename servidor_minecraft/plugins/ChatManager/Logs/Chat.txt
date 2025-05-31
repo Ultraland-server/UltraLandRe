@@ -11,3 +11,7 @@
 [Tue May 27 00:18:16 UTC 2025] ItsSoulTime: &e&lDiaria Key
 [Tue May 27 00:19:38 UTC 2025] ItsSoulTime: &e&lDiaria Key
 [Sat May 31 15:11:27 UTC 2025] ItsSoulTime: &a&lRecompensa Semanal
+[Sat May 31 15:30:27 UTC 2025] ItsSoulTime: &4&lCerrar
+[Sat May 31 15:30:41 UTC 2025] ItsSoulTime: &4&lCerrar Menu
+[Sat May 31 15:32:52 UTC 2025] ItsSoulTime: &f&l›› &4&lClick para Cerra Menu &f&l‹‹
+[Sat May 31 15:33:02 UTC 2025] ItsSoulTime: &f&l›› &c&lClick para Cerra Menu &f&l‹‹
