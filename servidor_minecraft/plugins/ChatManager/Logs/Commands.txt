@@ -469,3 +469,17 @@
 [Sat May 31 18:01:27 UTC 2025] ItsSoulTime: /ie rename &e&lLista de Encantamientos Custom
 [Sat May 31 18:02:09 UTC 2025] ItsSoulTime: /ie rename &c&lTus Homes
 [Sat May 31 18:03:48 UTC 2025] ItsSoulTime: /cpg 5
+[Sat May 31 18:10:14 UTC 2025] ItsSoulTime: /cpr
+[Sat May 31 18:10:16 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:10:18 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:10:28 UTC 2025] ItsSoulTime: /cp panel-1 ItsSoulTime
+[Sat May 31 18:10:49 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:24 UTC 2025] ItsSoulTime: /cpr
+[Sat May 31 18:11:26 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:27 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:28 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:29 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:30 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:11:54 UTC 2025] ItsSoulTime: /cpr
+[Sat May 31 18:11:56 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 18:12:00 UTC 2025] ItsSoulTime: /cp menu
