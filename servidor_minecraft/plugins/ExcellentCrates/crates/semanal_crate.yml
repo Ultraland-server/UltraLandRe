@@ -37,9 +37,61 @@ Milestones:
 _dataver: 600
 Rewards:
   List:
+    iron_ingot:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:40,id:"minecraft:iron_ingot"}'
+            DataVersion: 4082
+    gold_ingot:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:32,id:"minecraft:gold_ingot"}'
+            DataVersion: 4082
     emerald:
       Type: ITEM
-      Weight: 60.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -61,15 +113,11 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:64,id:"minecraft:emerald"}'
+            Value: '{count:16,id:"minecraft:emerald"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     diamond:
       Type: ITEM
-      Weight: 40.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -91,45 +139,11 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:64,id:"minecraft:diamond"}'
+            Value: '{count:10,id:"minecraft:diamond"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    netherite_scrap:
-      Type: ITEM
-      Weight: 35.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:64,id:"minecraft:netherite_scrap"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     netherite_ingot:
       Type: ITEM
-      Weight: 29.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -151,15 +165,11 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:64,id:"minecraft:netherite_ingot"}'
+            Value: '{count:3,id:"minecraft:netherite_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    nether_star:
+    golden_carrot:
       Type: ITEM
-      Weight: 5.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -181,15 +191,11 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:1,id:"minecraft:nether_star"}'
+            Value: '{count:32,id:"minecraft:golden_carrot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    elytra:
+    golden_apple:
       Type: ITEM
-      Weight: 0.5
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -211,9 +217,268 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:1,id:"minecraft:elytra"}'
+            Value: '{count:5,id:"minecraft:golden_apple"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
+    ominous_bottle:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:ominous_bottle_amplifier":3},count:1,id:"minecraft:ominous_bottle"}'
+            DataVersion: 4082
+    ominous_bottle_1:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:ominous_bottle_amplifier":4},count:1,id:"minecraft:ominous_bottle"}'
+            DataVersion: 4082
+    totem_of_undying:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:totem_of_undying"}'
+            DataVersion: 4082
+    shield:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:shield"}'
+            DataVersion: 4082
+    mace:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:mace"}'
+            DataVersion: 4082
+    arco_bombardero:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"Arco ","underlined":false},{"bold":true,"color":"red","italic":false,"text":"Bombardero"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:bomber":3}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤ ","underlined":false},{"bold":false,"color":"red","italic":false,"text":"Un
+              Arco que a primera vista parece normal"}],"text":""}'',''{"extra":[{"bold":false,"color":"red","italic":false,"obfuscated":false,"strikethrough":false,"text":"Pero cuando menos te das cuenta tira TNT en vez de Flechas","underlined":false}],"text":""}'']},count:1,id:"minecraft:bow"}'
+            DataVersion: 4082
+    ballesta_bombardera:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"Ballesta ","underlined":false},{"bold":true,"color":"red","italic":false,"text":"Bombardera"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:bomber":3}},"minecraft:lore":[''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤ ","underlined":false},{"bold":false,"color":"red","italic":false,"text":"Una
+              Ballesta que a primera vista parece normal"}],"text":""}'',''{"extra":[{"bold":false,"color":"red","italic":false,"obfuscated":false,"strikethrough":false,"text":"Pero cuando menos te das cuenta tira TNT en vez de Flechas","underlined":false}],"text":""}'']},count:1,id:"minecraft:crossbow"}'
+            DataVersion: 4082
+    roca_de_fragmentos_de_cristales_extraos:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"light_purple","italic":false,"obfuscated":false,"strikethrough":false,"text":"Roca de Fragmentos de cristales extraños","underlined":true}],"text":""}'',"minecraft:enchantment_glint_override":1b,"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Una Roca con Muchos Fragmentos","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"de
+              Cristales extraños , se ve valioso","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"mejor hay guardarlos por si acaso","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Para que servira esta extraña roca?","underlined":false}],"text":""}'']},count:1,id:"minecraft:amethyst_block"}'
+            DataVersion: 4082
+    firework_rocket:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:fireworks":{flight_duration:3b}},count:64,id:"minecraft:firework_rocket"}'
+            DataVersion: 4082
+    rara_key:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_data":{PublicBukkitValues:{"excellentcrates:crate_key.id":"rara_key"}},"minecraft:custom_name":''{"extra":[{"bold":true,"color":"blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Rara Key","underlined":false}],"text":""}''},count:1,id:"minecraft:ominous_trial_key"}'
+            DataVersion: 4082

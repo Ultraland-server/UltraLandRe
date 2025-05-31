@@ -12,7 +12,7 @@ Preview:
   Id: default
 Animation:
   Enabled: true
-  Id: roulette
+  Id: csgo
 Opening:
   Cooldown: 0
 Key:

@@ -395,3 +395,10 @@
 [Sat May 31 16:39:30 UTC 2025] ItsSoulTime: /ie rename &f&lArco &c&lBombardero
 [Sat May 31 16:39:40 UTC 2025] ItsSoulTime: /ie rename &f&lBallesta &c&lBombardera
 [Sat May 31 16:43:01 UTC 2025] ItsSoulTime: /ie lore add
+[Sat May 31 16:46:46 UTC 2025] ItsSoulTime: /ie lore add &f&l➤ &cUn Arco que a primera vista parece normal
+[Sat May 31 16:47:45 UTC 2025] ItsSoulTime: /ie lore add &cPero cuando menos te das cuenta tira TNT en vez de Flechas
+[Sat May 31 16:48:03 UTC 2025] ItsSoulTime: /ie lore add &f&l➤ &cUna Ballesta que a primera vista parece normal
+[Sat May 31 16:48:08 UTC 2025] ItsSoulTime: /ie lore add &cPero cuando menos te das cuenta tira TNT en vez de Flechas
+[Sat May 31 16:49:06 UTC 2025] ItsSoulTime: /crate editor
+[Sat May 31 16:49:13 UTC 2025] ItsSoulTime: /csgo
+[Sat May 31 16:54:05 UTC 2025] ItsSoulTime: /crate editor
