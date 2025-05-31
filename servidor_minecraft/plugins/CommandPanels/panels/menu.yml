@@ -2,9 +2,9 @@ panels:
   menu:
     perm: default
     rows: 5
-    title: 'Menu de Usuario'
-    command: menu 
-    empty: BLACK_STAINED_GLASS_PANE
+    title: '&c&lMenu de Usuario'
+    commands : 
+    - menu 
     item:
       '0':
         material: RED_STAINED_GLASS_PANE
@@ -122,6 +122,8 @@ panels:
         material: COMPASS
         stack: 1
         name: §b§lWarps
+        lore:
+        - ""
       '33':
         material: ORANGE_STAINED_GLASS_PANE
         stack: 1
