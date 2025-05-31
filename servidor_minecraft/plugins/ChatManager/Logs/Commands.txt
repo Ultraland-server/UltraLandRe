@@ -312,3 +312,13 @@
 [Sat May 31 15:31:52 UTC 2025] ItsSoulTime: /reward
 [Sat May 31 15:33:24 UTC 2025] ItsSoulTime: /axreward reload
 [Sat May 31 15:33:26 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 15:34:05 UTC 2025] ItsSoulTime: /axreward reload
+[Sat May 31 15:34:07 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 15:34:53 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 15:35:47 UTC 2025] ItsSoulTime: /eco reset ItsSoulTime
+[Sat May 31 15:35:54 UTC 2025] ItsSoulTime: /axreward reset ItsSoulTime
+[Sat May 31 15:36:03 UTC 2025] ItsSoulTime: /pl
+[Sat May 31 15:36:21 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 15:40:32 UTC 2025] ItsSoulTime: /axreward reset ItsSoulTime
+[Sat May 31 15:40:34 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 15:42:17 UTC 2025] ItsSoulTime: /znpcs create 2 player RTP
