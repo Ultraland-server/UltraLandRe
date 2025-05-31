@@ -455,3 +455,5 @@
 [Sat May 31 17:28:41 UTC 2025] ItsSoulTime: /menu
 [Sat May 31 17:33:34 UTC 2025] ItsSoulTime: /cp example
 [Sat May 31 17:33:56 UTC 2025] ItsSoulTime: /cp template
+[Sat May 31 17:41:50 UTC 2025] ItsSoulTime: /cp
+[Sat May 31 17:41:58 UTC 2025] ItsSoulTime: /cpg 5
