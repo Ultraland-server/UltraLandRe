@@ -448,3 +448,10 @@
 [Sat May 31 17:22:31 UTC 2025] ItsSoulTime: /kitreset inicial
 [Sat May 31 17:22:38 UTC 2025] ItsSoulTime: /mv spawn
 [Sat May 31 17:22:42 UTC 2025] ItsSoulTime: /kit inicial
+[Sat May 31 17:26:39 UTC 2025] ItsSoulTime: /kitr inicial
+[Sat May 31 17:26:52 UTC 2025] ItsSoulTime: /reward
+[Sat May 31 17:27:32 UTC 2025] ItsSoulTime: /pl
+[Sat May 31 17:28:39 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 17:28:41 UTC 2025] ItsSoulTime: /menu
+[Sat May 31 17:33:34 UTC 2025] ItsSoulTime: /cp example
+[Sat May 31 17:33:56 UTC 2025] ItsSoulTime: /cp template
