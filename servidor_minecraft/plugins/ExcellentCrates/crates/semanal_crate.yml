@@ -39,7 +39,7 @@ Rewards:
   List:
     iron_ingot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 69.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -65,7 +65,7 @@ Rewards:
             DataVersion: 4082
     gold_ingot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 67.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -91,7 +91,7 @@ Rewards:
             DataVersion: 4082
     emerald:
       Type: ITEM
-      Weight: 10.0
+      Weight: 67.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -117,7 +117,7 @@ Rewards:
             DataVersion: 4082
     diamond:
       Type: ITEM
-      Weight: 10.0
+      Weight: 63.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -169,7 +169,7 @@ Rewards:
             DataVersion: 4082
     golden_carrot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 55.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -195,7 +195,7 @@ Rewards:
             DataVersion: 4082
     golden_apple:
       Type: ITEM
-      Weight: 10.0
+      Weight: 55.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -221,7 +221,7 @@ Rewards:
             DataVersion: 4082
     ominous_bottle:
       Type: ITEM
-      Weight: 10.0
+      Weight: 52.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -247,7 +247,7 @@ Rewards:
             DataVersion: 4082
     ominous_bottle_1:
       Type: ITEM
-      Weight: 10.0
+      Weight: 49.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -273,7 +273,7 @@ Rewards:
             DataVersion: 4082
     totem_of_undying:
       Type: ITEM
-      Weight: 10.0
+      Weight: 35.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -299,7 +299,7 @@ Rewards:
             DataVersion: 4082
     shield:
       Type: ITEM
-      Weight: 10.0
+      Weight: 61.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -325,7 +325,7 @@ Rewards:
             DataVersion: 4082
     mace:
       Type: ITEM
-      Weight: 10.0
+      Weight: 30.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -351,7 +351,7 @@ Rewards:
             DataVersion: 4082
     arco_bombardero:
       Type: ITEM
-      Weight: 10.0
+      Weight: 15.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -378,7 +378,7 @@ Rewards:
             DataVersion: 4082
     ballesta_bombardera:
       Type: ITEM
-      Weight: 10.0
+      Weight: 15.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -432,7 +432,7 @@ Rewards:
             DataVersion: 4082
     firework_rocket:
       Type: ITEM
-      Weight: 10.0
+      Weight: 42.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -458,7 +458,7 @@ Rewards:
             DataVersion: 4082
     rara_key:
       Type: ITEM
-      Weight: 10.0
+      Weight: 8.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
