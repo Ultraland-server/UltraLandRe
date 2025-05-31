@@ -34,9 +34,9 @@
   {
     "id": 2,
     "hologramHeight": 0.0,
-    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNjEzOTA1NCwKICAicHJvZmlsZUlkIiA6ICJjZjQxNmViZDkyNWU0ZmI0YjQxNTA5YTBkMThlNmZiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSVFAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhlMDQwMGVhMzMxNDgwZDhkYTA1MTBiNjQyYmE3MzExOWVhZTg4OTFmOGEwMTlkNjVkYjJjYWQyNDkyZGM2NSIKICAgIH0KICB9Cn0=",
-    "signature": "N14Uec15gbUmkmxZ0aJUhz5AeC7hQawGjDr+1SJFL5LCLmfuMmAG5LX9NSWGOqct8DqW8Ma4wU8tm3oDDzmRH9rdlOmu6Ebz0+2kfCSx9sJujG6BZDdroWjNsRU7/PwewAyHl+IWBrEqjBCMtqMIDKQq1X9X8zXni6aiYCmU3ZIO+b0Hzg5JgTPpTgao/m6ivIWoYXdTiiX/Mc50QtZogDsPFCVIAacZQH69/oBSgFbA0mgY/fhlUeSYdMYIhZw5Jzo1oqb99GsqspTBbrXfHEwqmYarY3K0Y/5xKBigB+EzSszHAW3wgc4+Uz/ygTs9aHg+NPZ1XwCtTH+d+ngx1dyPbxUfqq2epczYuLyZKjyc601EnTyth7cUTG9DPjixfa/9lYYxTqq34x8vNlWYKN8eJ0FvI4SA0dzU7BTOAcjCnR4geXiIVhJManL0APDAG9hBg3PjsUEOw+FltbhprVuzn1bW0nOf8/CKF40+ro1eoG5AgsxO4ApirQBuUOEGP8usowwjVGlJBaBzRmT4cS9B/H1KmfmfKarMaZadDOhU5EPD09+tmODqicRrZrLMI4Uhynlcx2wLz8eN9i57nuw2hW1rAl7LHU1eiNtPOn/iyVGkrDpTTjmXnhg+KffmjPSeKl+409Bw8ZV4vpsdQbszFd/tT4D4ovxcJi5Uw10=",
-    "skinName": "Steve",
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY4NTQ1NTk0Mzc1NCwKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iY2FhNDVjNmRmN2RhNTVkYWE0YzVmYjE1MjFmODdhYTlkNjA2NTJiNTVkMmQ1OTBjZjBlNmNiZjFmMWNhMTAxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "signature": "E3sAY38y+BztFxQDzxg0FPjYeDJX8EmkxbgkEafhzbclIjjNIhyPuMI3aqg9q4bMoHXu7cJDBo+lWawGCxM3tc4xI0tfUKm3eLg8euUyffDgAiUaiKYDaymK96az+vcgkwUSN2oXv00BNkPsXw4tHkJcaGwRJ8mOyPOD4UmlrWcvodcAtiQikc5DeyPmXEKHulbpn37zk8+/IXc+Do5l+BQGSkkscU19fkdi4M+ictMrjX2i3RAZTrUuM/R3eWjyPD9ynjvuKCYfLopiMQN2NY/43Qf2RYRlaMOZkMQThn3m1Lt8tolwfwFFnnT0T+nBnjWeDTZuaCD5EkY2cSgV3Q+HAFvn/Dre4IFp/syAUYu2DUlL8jfpL5+MuY6wOfIs/RxBP3WEuLimws76A0ZDGm1qdyYB63Ydi6td7SflepjNJmWACPgzkVrwlmNUQUD1oPPUgJ8BuIh5qbnL2WhCVOfj/MH9HRCu1/aRnPN0AVGY7WQBr7diqJ2xTIP4u9s7XeY5HmGFvONd9uOnWLzGY0C6r84tRByhJfI6RNmZZb0R11n/3BLAVkNmccWkGP5m3rRl8Lt88FtvnQdlIpRCwaIc7SyL+P+swQP89tBoeyOJC5jvx1n6YYOCgzkXjsxyAJAWHNmb3g6CVHP930YmsDnb4q3zuaR7RNHUxQCQpBI=",
+    "skinName": "https://imgur.com/5IdoRzX",
     "location": {
       "world": "etc",
       "x": 0.5,
@@ -47,10 +47,19 @@
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "RTP"
+      "&aY-hacer-un-teletransporte-random",
+      "&bclick-para-interactuar",
+      "&6&lRTP"
     ],
     "refreshSkinDuration": 0,
-    "clickActions": [],
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "rtp world world",
+        "delay": 0
+      }
+    ],
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}

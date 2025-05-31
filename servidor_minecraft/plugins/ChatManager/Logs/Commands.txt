@@ -322,3 +322,26 @@
 [Sat May 31 15:40:32 UTC 2025] ItsSoulTime: /axreward reset ItsSoulTime
 [Sat May 31 15:40:34 UTC 2025] ItsSoulTime: /reward
 [Sat May 31 15:42:17 UTC 2025] ItsSoulTime: /znpcs create 2 player RTP
+[Sat May 31 15:45:34 UTC 2025] ItsSoulTime: /znpcs skin 2 https://imgur.com/5IdoRzX
+[Sat May 31 15:46:18 UTC 2025] ItsSoulTime: /rtp world world
+[Sat May 31 15:46:32 UTC 2025] ItsSoulTime: /mv tp ItsSoulTime
+[Sat May 31 15:46:39 UTC 2025] ItsSoulTime: /mv tp etc
+[Sat May 31 15:46:47 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 15:47:23 UTC 2025] ItsSoulTime: /znpcs action 2 add cmd rtp world world
+[Sat May 31 15:47:48 UTC 2025] ItsSoulTime: /mv tp etc
+[Sat May 31 15:48:18 UTC 2025] ItsSoulTime: /znpcs lines 2 &6&lRTP
+[Sat May 31 15:48:41 UTC 2025] ItsSoulTime: /znpcs lines 2 &6&lRTP &bclick para interactuar
+[Sat May 31 15:48:49 UTC 2025] ItsSoulTime: /znpcs lines 2 &6&lRTP &bclick-para-interactuar
+[Sat May 31 15:49:04 UTC 2025] ItsSoulTime: /znpcs lines 2 &6&lRTP &bclick-para-interactuar Y-hacer-un-teletransporte-random
+[Sat May 31 15:49:12 UTC 2025] ItsSoulTime: /znpcs lines 2 &6&lRTP &bclick-para-interactuar &aY-hacer-un-teletransporte-random
+[Sat May 31 15:49:20 UTC 2025] ItsSoulTime: /deop ItsSoulTime
+[Sat May 31 15:50:03 UTC 2025] ItsSoulTime: /mv tp etc
+[Sat May 31 15:50:08 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 15:50:38 UTC 2025] ItsSoulTime: /pl
+[Sat May 31 15:50:39 UTC 2025] ItsSoulTime: /version CommandPanels
+[Sat May 31 15:50:57 UTC 2025] ItsSoulTime: /home
+[Sat May 31 15:51:02 UTC 2025] ItsSoulTime: /homes
+[Sat May 31 15:51:11 UTC 2025] ItsSoulTime: /sethome test
+[Sat May 31 15:51:14 UTC 2025] ItsSoulTime: /homes
+[Sat May 31 15:51:39 UTC 2025] ItsSoulTime: /delhome ItsSoulTime: test
+[Sat May 31 15:51:47 UTC 2025] ItsSoulTime: /homes
