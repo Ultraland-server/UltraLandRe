@@ -1,0 +1,18 @@
+[2025/05/26 23:54:21]: §9          __             _       
+[2025/05/26 23:54:21]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/05/26 23:54:21]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/05/26 23:54:21]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/05/26 23:54:21]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/05/26 23:54:21]: §9                  |___/            
+[2025/05/26 23:54:21]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/05/26 23:54:21]: §9 
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] All settings were loaded in 87 ms.
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] All plugin messages were loaded in 44 ms (languageByClient=false).
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] Loading database...
+[2025/05/26 23:54:21]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/05/26 23:57:45]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-26 23:57:45.076, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/26 23:57:45]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/27 00:56:44]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-27 00:56:44.378, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/27 00:57:01]: [nLogin] Successful plugin core shutdown (took 0.00s)

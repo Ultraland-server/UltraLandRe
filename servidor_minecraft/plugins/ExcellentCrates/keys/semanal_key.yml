@@ -1,0 +1,8 @@
+Name: '&6&lSemanal Key'
+Virtual: false
+ItemData:
+  Type: VANILLA
+  Tag:
+    Value: '{count:1,id:"minecraft:trial_key"}'
+    DataVersion: 4082
+ItemStackable: true

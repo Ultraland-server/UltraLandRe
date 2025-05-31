@@ -1,0 +1,60 @@
+[2025/05/24 16:04:10]: §9          __             _       
+[2025/05/24 16:04:10]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/05/24 16:04:10]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/05/24 16:04:10]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/05/24 16:04:10]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/05/24 16:04:10]: §9                  |___/            
+[2025/05/24 16:04:10]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/05/24 16:04:10]: §9 
+[2025/05/24 16:04:10]: §3[nLogin] [DEBUG] The config.yml file was created successfully.
+[2025/05/24 16:04:12]: §3[nLogin] [DEBUG] All settings were loaded in 1330 ms.
+[2025/05/24 16:04:12]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/05/24 16:04:12]: §3[nLogin] [DEBUG] All plugin messages were loaded in 47 ms (languageByClient=false).
+[2025/05/24 16:04:12]: §3[nLogin] [DEBUG] All proxy settings were loaded in 2 ms.
+[2025/05/24 16:04:12]: §3[nLogin] [DEBUG] Loading database...
+[2025/05/24 16:04:12]: [nLogin] Generating RSA keypair... (this may take a while)
+[2025/05/24 16:04:13]: [nLogin] The RSA key pair was successfully generated. Took 1.10s
+[2025/05/24 16:04:13]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/05/24 16:04:28]: 
+[2025/05/24 16:04:28]:  §bThank you so much for choosing nLogin! §4<3
+[2025/05/24 16:04:28]: 
+[2025/05/24 16:04:28]:  §4For your safety, please read the message below:
+[2025/05/24 16:04:28]:   §cNever download nLogin from unknown sources.
+[2025/05/24 16:04:28]:   §cA modified version may contain malicious software.
+[2025/05/24 16:04:28]: 
+[2025/05/24 16:04:28]:  §3Trusted sources:
+[2025/05/24 16:04:28]:   §bwww.nickuc.com
+[2025/05/24 16:04:29]:   §bwww.github.com/nickuc
+[2025/05/24 16:04:29]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/05/24 16:04:29]: 
+[2025/05/24 16:04:29]:  §3Official support channels:
+[2025/05/24 16:04:29]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/05/24 16:04:29]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/05/24 16:04:29]:   §bEmail: §fsupport@nickuc.com
+[2025/05/24 16:04:29]:   §bYouTube: §fyoutube.com/nickuc
+[2025/05/24 16:04:29]: 
+[2025/05/24 16:04:29]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/05/24 16:04:29]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/05/24 16:04:29]: 
+[2025/05/24 16:04:49]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('ItsSoulTime', 9f68d785ad113babbb36393a7edbfffb, null, null, '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', '127.207.40.132', '2025-05-24 16:04:49.655', '2025-05-24 16:04:49.655', null, null, '{"settings":[{"value":true,"key":"force-invalid-session"}],"version":0}')" (applied to all columns)
+[2025/05/24 16:04:49]: [nLogin] The user ItsSoulTime has successfully registered.
+[2025/05/24 16:05:42]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:04:49.655, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":true,"key":"force-invalid-session"},{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [settings] columns)
+[2025/05/24 16:06:00]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:08:08]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:08:08.664, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:08:47]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:08:47.062, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:09:06]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:09:06.291, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:09:06]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:09:26]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:09:26.312, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:09:42]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:09:42.515, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:09:42]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:09:47]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:09:47.012, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:10:01]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:10:01.476, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:10:01]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:10:07]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:10:07.212, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:10:24]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:10:24.357, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:10:24]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:16:59]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:16:59.814, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:17:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:17:15.946, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/05/24 16:17:15]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/05/24 16:19:32]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$P9FOa7vlbP7b.CBkAyh9dulG1IPgQy5itz1nEYnwkVOXlRxPJlZwu', `last_ip` = '127.207.40.132', `creation_date` = 2025-05-24 16:04:49.655, `last_seen` = 2025-05-24 16:19:32.762, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/05/24 16:19:45]: [nLogin] Successful plugin core shutdown (took 0.00s)

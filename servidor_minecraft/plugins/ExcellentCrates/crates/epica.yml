@@ -1,0 +1,219 @@
+Name: Epica Crate
+Description: []
+ItemProvider:
+  Type: VANILLA
+  Tag:
+    Value: '{components:{"minecraft:custom_name":''{"bold":false,"extra":["Epica Crate"],"italic":false,"obfuscated":false,"strikethrough":false,"text":"","underlined":false}'',"minecraft:hide_additional_tooltip":{},"minecraft:profile":{id:[I;-850160402,1534147744,-2009838519,1945945916],name:"1ff041976a09dd05",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmMDQxOTc2YTA5ZGQwNTNlM2QxZDRlNjExYWFjMDk1OTRkNzRmYzcxYTBlYzRkYTAxMTA0MTZkMzE3ZGJhOCJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4082
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: csgo
+Opening:
+  Cooldown: 0
+Key:
+  Required: true
+  Ids:
+  - epica
+Block:
+  Positions:
+  - -12,231,-38,etc
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: epica
+    Y_Offset: 0.0
+  Effect:
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false
+_dataver: 600
+Rewards:
+  List:
+    golden_sword:
+      Type: ITEM
+      Weight: 15.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:golden_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_helmet:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:diamond_helmet"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_chestplate:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:diamond_chestplate"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_leggings:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:diamond_leggings"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_boots:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:diamond_boots"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    totem_of_undying:
+      Type: ITEM
+      Weight: 12.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:totem_of_undying"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189

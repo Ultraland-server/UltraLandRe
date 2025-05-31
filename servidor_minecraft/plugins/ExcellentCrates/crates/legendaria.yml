@@ -1,0 +1,189 @@
+Name: Legendaria Crate
+Description: []
+ItemProvider:
+  Type: VANILLA
+  Tag:
+    Value: '{components:{"minecraft:custom_name":''{"bold":false,"extra":["Legendaria Crate"],"italic":false,"obfuscated":false,"strikethrough":false,"text":"","underlined":false}'',"minecraft:hide_additional_tooltip":{},"minecraft:profile":{id:[I;-850160402,1534147744,-2009838519,1945945916],name:"1ff041976a09dd05",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmMDQxOTc2YTA5ZGQwNTNlM2QxZDRlNjExYWFjMDk1OTRkNzRmYzcxYTBlYzRkYTAxMTA0MTZkMzE3ZGJhOCJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4082
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: csgo
+Opening:
+  Cooldown: 0
+Key:
+  Required: true
+  Ids:
+  - legendaria
+Block:
+  Positions:
+  - -12,231,-40,etc
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: legendaria
+    Y_Offset: 0.0
+  Effect:
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false
+_dataver: 600
+Rewards:
+  List:
+    firework_rocket:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:fireworks":{flight_duration:3b}},count:64,id:"minecraft:firework_rocket"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    wolf_armour:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:wolf_armor"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    turtle_shell:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:turtle_helmet"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_horse_armour:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:diamond_horse_armor"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    shield:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:shield"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189

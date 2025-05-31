@@ -1,0 +1,2454 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|4082
+'1':
+  uniqueId: 4b5744d9-6daa-4c01-b947-a765d9481267
+  world: etc
+  x: 24
+  y: 206
+  z: -5
+  yaw: 353.3029
+  type: admin
+  name: Cristales
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:cleric
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: IRON_INGOT
+        amount: 32
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: GOLD_INGOT
+        amount: 16
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: EMERALD
+        amount: 24
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND
+        amount: 8
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_INGOT
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Roca de Fragmentos de cristales
+            extraños","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una Roca con Muchos Fragmentos","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"de Cristales extraños , se ve valioso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"mejor hay guardarlos por si acaso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Para que servira esta extraña roca?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+  snapshots: []
+'2':
+  uniqueId: 13b303e9-9913-4cd0-a127-e9cc85368b5d
+  world: etc
+  x: 29
+  y: 206
+  z: 2
+  yaw: 90.951164
+  type: admin
+  name: Armas Raras
+  object:
+    type: piglin
+    baby: false
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epic ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true},{"text":"Sword","italic":false,"color":"gray","bold":true}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 6
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Soul ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":true},{"text":"Edge","italic":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Arma te permite cortar el alma de otros","italic":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Muy fuerte y suele doler bastante","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          - '""'
+          enchants:
+            minecraft:double_strike: 4
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:sharpness: 10
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 10.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:d95572a5-7747-47a6-bbc3-1e932385369a
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Royal ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Rapier","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Esta Arma es muy royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es Rapida para el combate","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '""'
+          enchants:
+            minecraft:cutter: 4
+            minecraft:looting: 5
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ee182005-5f73-4495-9e84-d55f4cb0d522
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:83b96b9e-ad1c-4cc6-a525-ca130fde913d
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Molten Sword","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            espada bastante caliente","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que tus enemigos sufriran quemaduras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Un Poco Muy graves","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:fire_aspect: 4
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.1
+              slot: mainhand
+              operation: 0
+              key: minecraft:2f2bc2b6-297a-4200-93eb-31503313e48a
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:01b3d4fd-1972-4130-8856-ee6d7b4453ba
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Mystical ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Spellblade","italic":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Arma Tambien bastante elegante y bonita","italic":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que tiene el aspecto de una flor especial","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Tendra poderes de una Flor parece","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 3
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 5
+            minecraft:venom: 2
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:58bbd3d4-ae0f-4b8c-949f-cbe9400c491c
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:500116d9-2c2a-48dd-bbf6-9eb9a5bc2fba
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Floral ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Longsword","italic":false,"color":"red","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Arma con una Hermosa Flor en el Mango","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es algo Grande y Lenta al ataque","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Pero Tambien se ve que pega buenos golpes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que envenena , ¿La probaras ahora
+            mismo?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
+            minecraft:venom: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -3.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:de3e0825-4dda-4deb-aa9b-8807ad6f7f12
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 10.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:f6d4993c-5844-4722-aaaa-a17a7b0552a9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Floral ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Sabre","italic":false,"color":"red","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Espada con una Hermosa Flor puesta en el mango","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es rapida y algo fuerte para el
+            combate","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Pero no se ve que su daño sea igual que
+            si version grande","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Parece que Tiene Veneno , que dices ¿Quieres
+            Probarla Ahora?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
+            minecraft:venom: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:0ca7721f-9132-4fef-ad44-1889a5310bb8
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:9dc6c065-5ad6-4914-b677-2114f569e741
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Mythic ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true},{"text":"Blade","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada aunque parezca una espada de diamante","italic":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Comun como todas , tiene sus cosas distintas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que ganas mas experiencia para encantar
+            otras cosas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          enchants:
+            minecraft:bane_of_arthropods: 5
+            minecraft:exp_hunter: 3
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 6
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:cd1e2e18-eeda-4dde-8542-168a691e6411
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:af464fbc-57af-4e2b-9af4-c9f2626e9220
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Corrupted ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true},{"text":"Mythic
+            ","italic":false,"color":"aqua","bold":true},{"text":"Blade","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            arma es la misma que la su version normal","italic":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Solo que hace mas daño sin embargo","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es mas lenta y pierde sus propiedades","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De conseguir mas experiencia para Encantar
+            en el proceso","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          enchants:
+            minecraft:bane_of_arthropods: 6
+            minecraft:decapitator: 4
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rage: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:252371b5-31e1-4dab-be89-99152093d74a
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -2.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:3b553417-88a0-48cf-9819-6ec744c1d078
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Silverine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":true},{"text":"Blade","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Pequeña Espada parece que la usaria un esqueleto wither","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es rapida , ¿Metera el efecto
+            wither a tus enemigos?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 5
+            minecraft:wither: 3
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:e22f6513-5dfe-40f9-a4bb-8c2dcc010c37
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:834ce503-47e1-4f0a-ba1d-0f02f4449bc3
+          ItemFlags:
+          - HIDE_ADDITIONAL_TOOLTIP
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Masamune","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que con esta Katana cortaras cabezas y","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y de paso manejar el viento con lo lejos
+            que podrias llegar","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"a mandar a tus rivales , (Cuidado al atacar
+            a tus amistades)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:decapitator: 4
+            minecraft:knockback: 3
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rocket: 3
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Dark ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":true},{"text":"Blade","italic":false,"color":"gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Con
+            esta \"espada\" que parece que puedes meter efecto wither","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Sin Embargo Tambien se ve que no es muy
+            fuerte","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":" Aunque tambien se ve que hace cortes rapidos","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:sharpness: 6
+            minecraft:sweeping_edge: 7
+            minecraft:unbreaking: 5
+            minecraft:wither: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 6.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:083cc817-6b01-48fd-a13f-cd27e6f51a61
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.5
+              slot: mainhand
+              operation: 0
+              key: minecraft:2f39075e-cf00-446d-86d2-1fa1d6b30708
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Yoru","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Parece
+            que esta cosa puede llevarte a usarla con furia","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y Tambien se ve que deja ciego a tus rivales
+            con solo usarla","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_arthropods: 5
+            minecraft:blindness: 3
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rage: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Ribbon ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true},{"text":"Cleaver","italic":false,"color":"gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Parece
+            que esta arma mete cortes rapidos","italic":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y de Una Gran Calidad gracias a sus ¿Cables
+            Rojos?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          enchants:
+            minecraft:cutter: 3
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 7
+            minecraft:unbreaking: 6
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:88ca8029-5097-46f7-b111-f8fe8fb5a521
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:c9dc6e62-cb7c-4b4d-ac1d-1ed45010bd4c
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Scythe","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Guadaña parece que da más exp y parece","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que Tendra chances de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:2beed3c6-f960-4100-9e39-d48fadd39160
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:5e5930aa-0f97-4797-90e2-65e7647452ce
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '17':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Sword","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            espada parece que da más exp y parece","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que Tendra chances de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '18':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Cleaver","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true}]}'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            \"Espada\" Bastante grande parece ser fuerte pero lenta","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se Ve que ganas mas EXP y Tendras chances
+            de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '19':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Muramasa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que esta katana tiene para ser mas afortunado al matar","italic":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 1
+            minecraft:scavenger: 4
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 6
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '20':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Abominable ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true},{"text":"Blade","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            espada un poco mas duradera que su version katana","italic":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que el que lo o la usa es afortunado/a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 2
+            minecraft:scavenger: 4
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '21':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Abominable ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true},{"text":"Scythe","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que esta guadaña te hace ser mas afortunado al matar","italic":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 1
+            minecraft:scavenger: 4
+            minecraft:sharpness: 6
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 6
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:f0aaf2eb-799c-418f-b9de-e4097403515f
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '22':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Waxweaver","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada se ve bastante elegante y fuerte pero algo lenta","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Aunque tambien se ve que tiene bastante
+            poder Royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y parece que defiende bien a los aldeanos
+            de una Aldea","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_netherspawn: 2
+            minecraft:fire_aspect: 1
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ae2ed762-33c2-4406-be7f-4960ef4f2f9b
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -1.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:9c1d11f0-dcca-4839-b4be-dff5561e5287
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '23':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Wickpiercer","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Lanza ademas de verse bastante royal , se ve que","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que hace daño a los invasores de las aldeas
+            y se ve que tiene","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Mas aparte de eso","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_netherspawn: 2
+            minecraft:fire_aspect: 1
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 3
+            minecraft:sharpness: 7
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ac2c0206-2f89-44ce-aba1-6c637b0f19de
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.2
+              slot: mainhand
+              operation: 0
+              key: minecraft:c070c1eb-8c5f-4240-924f-5381714ca762
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '24':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Justice","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Lanza Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 7
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 8
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.2
+              slot: mainhand
+              operation: 0
+              key: minecraft:fd81951e-241d-4cb9-86db-2a1df4a2ebd3
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:f988c3e7-3fb6-457a-bdc6-c330d011e0fd
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '25':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Axe
+            ","italic":false,"color":"white","bold":true},{"text":"Rhitta","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Hacha Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 10
+            minecraft:sweeping_edge: 8
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -2.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:822c7d03-2743-4f43-b636-4be286882677
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '26':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Punisher","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 7
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:53ff9d2d-6263-4d99-94a7-1ce254ca1c20
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -1.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:7b0aa98f-9ede-424a-96e1-0ddab9f9243a
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+    '27':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Reaper","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Guadaña Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:0d6725ed-3614-485a-b09f-28a1532107b8
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:9c1c52ab-a2f5-4b5d-a764-9795b56c7240
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
+  snapshots: []
+'3':
+  uniqueId: 57812e37-efe5-4f98-840e-af48675bf8f7
+  world: etc
+  x: -8
+  y: 231
+  z: -26
+  yaw: 179.19939
+  type: admin
+  name: Keys
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:shepherd
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Diaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "diaria_key"
+            }
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Semanal Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "semanal_key"
+            }
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Semanal Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "semanal_key"
+            }
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Legendaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "legendaria"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Legendaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "legendaria"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+  snapshots: []
+'5':
+  uniqueId: 229f7754-89ba-456b-b4da-9d3937c371f7
+  world: etc
+  x: 12
+  y: 206
+  z: 2
+  yaw: 271.21854
+  type: admin
+  name: Armas Epicas
+  object:
+    type: piglin
+    baby: false
+  recipes: {}
+  snapshots: []
+'6':
+  uniqueId: 1a60be12-6243-4883-9dad-338800c74ac2
+  world: etc
+  x: 20
+  y: 206
+  z: 8
+  yaw: 180.74417
+  type: admin
+  name: Armas Legendarias
+  object:
+    type: piglin-brute
+  recipes: {}
+  snapshots: []
+'7':
+  uniqueId: 423ea5cf-73db-4001-aa48-8ec1e86a7118
+  world: etc
+  x: 16
+  y: 206
+  z: 8
+  yaw: 180.26694
+  type: admin
+  name: Armaduras
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:armorer
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Raro","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Raro","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Raras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Raras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 5
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+  snapshots: []
