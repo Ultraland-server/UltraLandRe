@@ -58,6 +58,10 @@ panels:
         material: GOLD_INGOT
         stack: 1
         name: §e§lTienda
+        lore:
+        - "&fClick para usar"
+        commands:
+        - shop
       '15':
         material: ORANGE_STAINED_GLASS_PANE
         stack: 1
@@ -86,6 +90,10 @@ panels:
         material: BLAZE_POWDER
         stack: 1
         name: §6§lSkills
+        lore:
+        - "&fClick para usar"
+        commands:
+        - Skill
       '22':
         material: STONE
         stack: 1
@@ -123,7 +131,7 @@ panels:
         stack: 1
         name: §b§lWarps
         lore:
-        - ""
+        - "&fClick para Usar"
       '33':
         material: ORANGE_STAINED_GLASS_PANE
         stack: 1
