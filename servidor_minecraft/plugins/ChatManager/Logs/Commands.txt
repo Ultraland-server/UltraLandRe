@@ -349,3 +349,25 @@
 [Sat May 31 16:00:47 UTC 2025] ItsSoulTime: /#exit
 [Sat May 31 16:12:25 UTC 2025] ItsSoulTime: /crate key give ItsSoulTime rara_key
 [Sat May 31 16:12:41 UTC 2025] ItsSoulTime: /eenchants list
+[Sat May 31 16:14:14 UTC 2025] ItsSoulTime: /eenchants list
+[Sat May 31 16:14:32 UTC 2025] ItsSoulTime: /ie enchant darkness_arrows 3
+[Sat May 31 16:14:59 UTC 2025] ItsSoulTime: /eenchants list
+[Sat May 31 16:15:57 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat May 31 16:16:00 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 16:16:07 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat May 31 16:16:52 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 16:17:05 UTC 2025] ItsSoulTime: /mv spawn etc
+[Sat May 31 16:17:09 UTC 2025] ItsSoulTime: /mv spawn etc
+[Sat May 31 16:17:14 UTC 2025] ItsSoulTime: /mv spawn
+[Sat May 31 16:17:26 UTC 2025] ItsSoulTime: /eenchants list
+[Sat May 31 16:18:29 UTC 2025] ItsSoulTime: /ie enchant flare
+[Sat May 31 16:19:00 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat May 31 16:19:13 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 16:19:31 UTC 2025] ItsSoulTime: /eenchants list
+[Sat May 31 16:21:07 UTC 2025] ItsSoulTime: /ie enchant ender_bow 1
+[Sat May 31 16:21:32 UTC 2025] ItsSoulTime: /ie enchant ender_bow 1
+[Sat May 31 16:21:38 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat May 31 16:21:58 UTC 2025] ItsSoulTime: /difficulty peaceful
+[Sat May 31 16:22:08 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat May 31 16:22:30 UTC 2025] ItsSoulTime: /difficulty normal
+[Sat May 31 16:22:47 UTC 2025] ItsSoulTime: /eenchants list
