@@ -601,3 +601,28 @@
 [Sun Jun 01 20:49:13 UTC 2025] ItsSoulTime: /shop
 [Sun Jun 01 20:49:52 UTC 2025] ItsSoulTime: /znpcs create 3 player menu
 [Sun Jun 01 20:50:22 UTC 2025] ItsSoulTime: /spawn
+[Sun Jun 01 20:52:39 UTC 2025] ItsSoulTime: /znpcs skin 3 https://imgur.com/xR1g1DP
+[Sun Jun 01 20:53:42 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu-&fClick-&fpara-&fInteractuar
+[Sun Jun 01 20:53:46 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu &fClick-&fpara-&fInteractuar
+[Sun Jun 01 20:54:04 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu-&1&lPersonal &fClick-&fpara-&fInteractuar
+[Sun Jun 01 20:54:22 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu-&1&lPersonal &f&lClick-&fpara-&fInteractuar
+[Sun Jun 01 20:54:29 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu-&1&lPersonal &f&lClick-&f&lpara-&f&lInteractuar
+[Sun Jun 01 20:55:12 UTC 2025] ItsSoulTime: /znpcs action 3 add cmd
+[Sun Jun 01 20:55:22 UTC 2025] ItsSoulTime: /znpcs action 3 add cmd menu
+[Sun Jun 01 20:55:29 UTC 2025] ItsSoulTime: /znpcs action 3 cmd add menu
+[Sun Jun 01 20:55:38 UTC 2025] ItsSoulTime: /znpcs action 3 cmd add menu
+[Sun Jun 01 20:55:44 UTC 2025] ItsSoulTime: /znpcs action 3 add cmd menu
+[Sun Jun 01 20:55:55 UTC 2025] ItsSoulTime: /gamemode creative
+[Sun Jun 01 20:55:57 UTC 2025] ItsSoulTime: /mv tp etc
+[Sun Jun 01 20:56:04 UTC 2025] ItsSoulTime: /znpcs action 3 cmd add menu
+[Sun Jun 01 20:56:08 UTC 2025] ItsSoulTime: /znpcs action 3 cmd add menu
+[Sun Jun 01 20:56:17 UTC 2025] ItsSoulTime: /znpcs action 3 menu
+[Sun Jun 01 20:56:22 UTC 2025] ItsSoulTime: /znpcs action 3 cmd add menu
+[Sun Jun 01 20:56:29 UTC 2025] ItsSoulTime: /znpcs action 3 add cmd menu
+[Sun Jun 01 20:56:35 UTC 2025] ItsSoulTime: /znpcs action 3 add cmd /menu
+[Sun Jun 01 20:57:10 UTC 2025] ItsSoulTime: /znpcs lines 3 &d&lMenu-&1&lPersonal &fClick-&fpara-&fInteractuar
+[Sun Jun 01 20:58:10 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
+[Sun Jun 01 20:58:25 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:58:32 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
+[Sun Jun 01 21:01:56 UTC 2025] ItsSoulTime: /znpcs:znpcs reload
+[Sun Jun 01 21:02:17 UTC 2025] ItsSoulTime: /znpcs delete 3
