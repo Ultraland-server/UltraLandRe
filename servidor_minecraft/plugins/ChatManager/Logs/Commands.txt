@@ -526,3 +526,23 @@
 [Sat May 31 18:35:19 UTC 2025] ItsSoulTime: /menu
 [Sat May 31 18:35:27 UTC 2025] ItsSoulTime: /menu
 [Sat May 31 18:38:05 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:03:56 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:04:00 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:04:04 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:04:23 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:05:46 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:05:48 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:05:59 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:06:13 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:06:18 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:08:10 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:08:14 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:08:30 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:09:33 UTC 2025] ItsSoulTime: /axreward reset ItsSoulTime
+[Sun Jun 01 20:10:19 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:10:28 UTC 2025] ItsSoulTime: /eenchants list
+[Sun Jun 01 20:11:21 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:11:22 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:11:28 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:11:37 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:11:39 UTC 2025] ItsSoulTime: /warp

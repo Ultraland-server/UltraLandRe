@@ -82,6 +82,10 @@ panels:
         material: FURNACE_MINECART
         stack: 1
         name: §e§lMenu de Recompensas
+        lore:
+        - "&fClick para usar"
+        commands:
+        - rewards
       '20':
         material: RED_STAINED_GLASS_PANE
         stack: 1
@@ -102,6 +106,10 @@ panels:
         material: RED_BED
         stack: 1
         name: §c§lTus Homes
+        lore:
+        - "&fClick para usar"
+        commands:
+        - homes
       '24':
         material: RED_STAINED_GLASS_PANE
         stack: 1
@@ -110,6 +118,10 @@ panels:
         material: BOOK
         stack: 1
         name: §e§lLista de Encantamientos Custom
+        lore:
+        - "&fClick para usar"
+        commands:
+        - eenchants list
       '26':
         material: ORANGE_STAINED_GLASS_PANE
         stack: 1
