@@ -626,3 +626,17 @@
 [Sun Jun 01 20:58:32 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
 [Sun Jun 01 21:01:56 UTC 2025] ItsSoulTime: /znpcs:znpcs reload
 [Sun Jun 01 21:02:17 UTC 2025] ItsSoulTime: /znpcs delete 3
+[Sun Jun 01 21:03:13 UTC 2025] ItsSoulTime: /znpcs create 3 player
+[Sun Jun 01 21:03:16 UTC 2025] ItsSoulTime: /znpcs create 3 player menu
+[Sun Jun 01 21:03:25 UTC 2025] ItsSoulTime: /znpcs skin 3 https://imgur.com/xR1g1DP
+[Sun Jun 01 21:03:57 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
+[Sun Jun 01 21:04:05 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
+[Sun Jun 01 21:04:12 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 21:04:15 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD menu
+[Sun Jun 01 21:04:33 UTC 2025] ItsSoulTime: /Menu
+[Sun Jun 01 21:04:40 UTC 2025] ItsSoulTime: /znpcs action 3 add CMD Menu
+[Sun Jun 01 21:04:47 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 21:05:00 UTC 2025] ItsSoulTime: /znpcs delete 3
+[Sun Jun 01 21:05:43 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 21:06:51 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 21:06:56 UTC 2025] ItsSoulTime: /menu

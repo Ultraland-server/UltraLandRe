@@ -20,3 +20,4 @@
 2025-06-01 20:35:54 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=420.5,y=64.0,z=317.5,pitch=-3.5142138,yaw=63.87198}
 2025-06-01 20:55:48 [INFO]: ItsSoulTime executed: /rtp world world
 2025-06-01 20:55:49 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=616.5,y=72.0,z=458.5,pitch=-2.754327,yaw=17.880005}
+2025-06-01 21:08:58 [INFO]: Disabling BetterRTP v3.6.13
