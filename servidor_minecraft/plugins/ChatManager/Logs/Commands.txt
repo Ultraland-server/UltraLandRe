@@ -546,3 +546,22 @@
 [Sun Jun 01 20:11:28 UTC 2025] ItsSoulTime: /menu
 [Sun Jun 01 20:11:37 UTC 2025] ItsSoulTime: /warps
 [Sun Jun 01 20:11:39 UTC 2025] ItsSoulTime: /warp
+[Sun Jun 01 20:12:07 UTC 2025] ItsSoulTime: /setwarp crates
+[Sun Jun 01 20:12:41 UTC 2025] ItsSoulTime: /setwarp armas
+[Sun Jun 01 20:12:48 UTC 2025] ItsSoulTime: /setwarp armaduras
+[Sun Jun 01 20:13:12 UTC 2025] ItsSoulTime: /setwarp tienda
+[Sun Jun 01 20:13:29 UTC 2025] ItsSoulTime: /setwarp rtp
+[Sun Jun 01 20:14:56 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:15:21 UTC 2025] ItsSoulTime: /menu
+[Sun Jun 01 20:15:43 UTC 2025] ItsSoulTime: /cpg 3
+[Sun Jun 01 20:17:22 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:18:40 UTC 2025] ItsSoulTime: /ie rename &b&fArmas
+[Sun Jun 01 20:18:42 UTC 2025] ItsSoulTime: /ie rename &b&fArmas
+[Sun Jun 01 20:18:45 UTC 2025] ItsSoulTime: /ie rename &b&lArmas
+[Sun Jun 01 20:19:02 UTC 2025] ItsSoulTime: /ie rename &e&lCrates
+[Sun Jun 01 20:19:12 UTC 2025] ItsSoulTime: /ie rename &e&lTienda
+[Sun Jun 01 20:19:27 UTC 2025] ItsSoulTime: /ie rename &6&lRTP
+[Sun Jun 01 20:19:40 UTC 2025] ItsSoulTime: /ie rename &3&lArmaduras
+[Sun Jun 01 20:20:31 UTC 2025] ItsSoulTime: /cpg 3
+[Sun Jun 01 20:21:51 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:21:59 UTC 2025] ItsSoulTime: /cp warps
