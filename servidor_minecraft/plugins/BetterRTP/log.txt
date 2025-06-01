@@ -16,3 +16,5 @@
 2025-06-01 20:03:11 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
 2025-06-01 20:03:12 [INFO]: Attempting to queue up some more safe locations...
 2025-06-01 20:03:12 [INFO]: Queueing paused, max queue limit reached!
+2025-06-01 20:35:53 [INFO]: ItsSoulTime executed: /rtp world world
+2025-06-01 20:35:54 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=420.5,y=64.0,z=317.5,pitch=-3.5142138,yaw=63.87198}

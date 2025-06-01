@@ -581,3 +581,14 @@
 [Sun Jun 01 20:30:11 UTC 2025] ItsSoulTime: /warps
 [Sun Jun 01 20:30:26 UTC 2025] ItsSoulTime: /warps
 [Sun Jun 01 20:31:12 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:33:45 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:33:48 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:34:26 UTC 2025] ItsSoulTime: /warp armaduras
+[Sun Jun 01 20:34:43 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:34:45 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:34:58 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:35:06 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:35:41 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:38:43 UTC 2025] ItsSoulTime: /gamemode creative
+[Sun Jun 01 20:41:46 UTC 2025] ItsSoulTime: /gamemode survival
+[Sun Jun 01 20:41:48 UTC 2025] ItsSoulTime: /gamemode spectator

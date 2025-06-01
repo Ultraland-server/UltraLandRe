@@ -63,9 +63,15 @@ panels:
         material: DIAMOND_HELMET
         stack: 1
         name: §3§lArmaduras
-        lore: 
-        - "En este warp podras conseguir armaduras con un tradeo"
-        - "Con Cristales de "
+        lore:
+        - ""
+        - "&fEn este warp podras conseguir armaduras con un tradeo"
+        - "&fCon Cristales de Mejora podras conseguir armaduras "
+        - "&fCon encantamientos mas alla del Vanilla"
+        - ""
+        - "&b&l» &f&lClick para Interactuar &b&l«"
+        commands:
+        - warp armaduras
       '12':
         material: GRASS_BLOCK
         stack: 1
