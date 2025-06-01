@@ -48,3 +48,6 @@
 [Sat May 31 18:20:22 UTC 2025] ItsSoulTime: &c&lMenu de Usuarios
 [Sat May 31 18:20:25 UTC 2025] ItsSoulTime: &c&lMenu de Usuario
 [Sat May 31 18:21:20 UTC 2025] ItsSoulTime: &c&lMenu &e&lde &6&lUsuario
+[Sun Jun 01 20:28:01 UTC 2025] ItsSoulTime: &b» &fClick para Interactuar &b«
+[Sun Jun 01 20:28:35 UTC 2025] ItsSoulTime: &f&l» &b&lClick para Interactuar &f&l«
+[Sun Jun 01 20:28:58 UTC 2025] ItsSoulTime: &b&l» &f&lClick para Interactuar &b&l«

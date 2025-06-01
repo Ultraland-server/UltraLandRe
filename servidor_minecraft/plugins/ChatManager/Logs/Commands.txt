@@ -565,3 +565,19 @@
 [Sun Jun 01 20:20:31 UTC 2025] ItsSoulTime: /cpg 3
 [Sun Jun 01 20:21:51 UTC 2025] ItsSoulTime: /cpr
 [Sun Jun 01 20:21:59 UTC 2025] ItsSoulTime: /cp warps
+[Sun Jun 01 20:22:17 UTC 2025] ItsSoulTime: /cp warps
+[Sun Jun 01 20:23:10 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:23:13 UTC 2025] ItsSoulTime: /war´p
+[Sun Jun 01 20:23:15 UTC 2025] ItsSoulTime: /warp
+[Sun Jun 01 20:23:18 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:24:42 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:24:44 UTC 2025] ItsSoulTime: /warp
+[Sun Jun 01 20:24:48 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:29:16 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:29:18 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:29:30 UTC 2025] ItsSoulTime: /warps armas
+[Sun Jun 01 20:29:34 UTC 2025] ItsSoulTime: /warp armas
+[Sun Jun 01 20:30:08 UTC 2025] ItsSoulTime: /cpr
+[Sun Jun 01 20:30:11 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:30:26 UTC 2025] ItsSoulTime: /warps
+[Sun Jun 01 20:31:12 UTC 2025] ItsSoulTime: /warps
