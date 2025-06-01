@@ -1354,3 +1354,4 @@
 [2025-06-01 20:42:07] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,20 
 [2025-06-01 20:42:13] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: 58,14 
 [2025-06-01 20:42:13] [INFO   ] Spawning shipwreck at 929, 50, 226 with rotation of EAST 
+[2025-06-01 20:47:53] [INFO   ] Large Cave at -192,10,320 has water level > -29 with populator LargeLushCavePopulator 
