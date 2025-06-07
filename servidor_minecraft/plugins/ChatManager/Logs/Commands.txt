@@ -767,3 +767,23 @@
 [Sat Jun 07 18:03:30 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_rank%
 [Sat Jun 07 18:04:06 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_actionbar_status%
 [Sat Jun 07 18:06:42 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:07:19 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:08:13 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 18:08:18 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:08:25 UTC 2025] ItsSoulTime: /warp
+[Sat Jun 07 18:08:29 UTC 2025] ItsSoulTime: /warps
+[Sat Jun 07 18:08:33 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:09:51 UTC 2025] ItsSoulTime: /cp warps
+[Sat Jun 07 18:10:02 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 18:10:05 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:10:36 UTC 2025] ItsSoulTime: /cp
+[Sat Jun 07 18:10:38 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:10:46 UTC 2025] ItsSoulTime: /deop ItsSoulTime
+[Sat Jun 07 18:10:48 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:10:53 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:10:58 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:11:01 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:11:43 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:11:54 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat Jun 07 18:13:50 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:14:25 UTC 2025] ItsSoulTime: /menu

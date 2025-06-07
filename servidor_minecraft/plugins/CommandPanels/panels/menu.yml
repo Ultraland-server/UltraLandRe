@@ -155,6 +155,8 @@ panels:
         name: §b§lWarps
         lore:
         - "&fClick para Usar"
+        commands:
+        - cp warps
       '33':
         material: ORANGE_STAINED_GLASS_PANE
         stack: 1
