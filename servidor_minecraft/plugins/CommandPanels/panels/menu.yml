@@ -109,6 +109,7 @@ panels:
         - '&f⚔ Haz Matado: &e%statistic_player_kills% jugadores '
         - '&f☠ Haz Muerto: &e%statistic_deaths% veces '
         - '&f⛃ Tienes : &e%vault_eco_balance% de Dinero'
+        - '&f❤ Tienes : &e%auraskills_hp% ' 
 
       '23':
         material: RED_BED
