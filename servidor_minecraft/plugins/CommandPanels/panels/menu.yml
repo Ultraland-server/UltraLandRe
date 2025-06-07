@@ -104,7 +104,9 @@ panels:
         name: '&f&ka &f&lTus Estadisticas &f&ka'
         lore:
         - ''
-        - '&fTu Nombre:&e %cp-player-displayname%' 
+        - '&f➤ Tu Nombre: &e%player_name%    ' 
+        - '&f⌚ Haz jugado : &e%statistic_time_played%'
+        - '&f⚔ Haz Matado: &e%statistic_player_kills% jugadores '
 
       '23':
         material: RED_BED
