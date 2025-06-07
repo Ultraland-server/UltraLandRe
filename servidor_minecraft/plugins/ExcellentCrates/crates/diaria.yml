@@ -34,10 +34,6 @@ Block:
       Name: CLOUD
 Milestones:
   Repeatable: false
-  List:
-    '0':
-      Reward_Id: key_rara_key
-      Openings: 8
 _dataver: 600
 Rewards:
   List:
@@ -67,10 +63,6 @@ Rewards:
           Tag:
             Value: '{count:32,id:"minecraft:iron_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     gold_ingot:
       Type: ITEM
       Weight: 98.0
@@ -97,10 +89,6 @@ Rewards:
           Tag:
             Value: '{count:16,id:"minecraft:gold_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     emerald:
       Type: ITEM
       Weight: 97.0
@@ -127,10 +115,6 @@ Rewards:
           Tag:
             Value: '{count:8,id:"minecraft:emerald"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     diamond:
       Type: ITEM
       Weight: 90.0
@@ -157,10 +141,6 @@ Rewards:
           Tag:
             Value: '{count:5,id:"minecraft:diamond"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     golden_apple:
       Type: ITEM
       Weight: 90.0
@@ -187,10 +167,6 @@ Rewards:
           Tag:
             Value: '{count:3,id:"minecraft:golden_apple"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     cooked_porkchop:
       Type: ITEM
       Weight: 90.0
@@ -217,10 +193,6 @@ Rewards:
           Tag:
             Value: '{count:16,id:"minecraft:cooked_porkchop"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     jacket_potato:
       Type: ITEM
       Weight: 90.0
@@ -247,10 +219,6 @@ Rewards:
           Tag:
             Value: '{count:24,id:"minecraft:baked_potato"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     ominous_bottle:
       Type: ITEM
       Weight: 85.0
@@ -277,10 +245,6 @@ Rewards:
           Tag:
             Value: '{components:{"minecraft:ominous_bottle_amplifier":2},count:1,id:"minecraft:ominous_bottle"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     ominous_bottle_1:
       Type: ITEM
       Weight: 84.0
@@ -307,10 +271,6 @@ Rewards:
           Tag:
             Value: '{components:{"minecraft:ominous_bottle_amplifier":3},count:1,id:"minecraft:ominous_bottle"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     ominous_bottle_2:
       Type: ITEM
       Weight: 83.0
@@ -337,10 +297,6 @@ Rewards:
           Tag:
             Value: '{components:{"minecraft:ominous_bottle_amplifier":4},count:1,id:"minecraft:ominous_bottle"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     netherite_ingot:
       Type: ITEM
       Weight: 75.0
@@ -367,10 +323,6 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:netherite_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     wind_charge:
       Type: ITEM
       Weight: 80.0
@@ -397,10 +349,6 @@ Rewards:
           Tag:
             Value: '{count:20,id:"minecraft:wind_charge"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     totem_of_undying:
       Type: ITEM
       Weight: 77.0
@@ -427,10 +375,6 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:totem_of_undying"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     elytra:
       Type: ITEM
       Weight: 20.0
@@ -457,10 +401,6 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:elytra"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     firework_rocket:
       Type: ITEM
       Weight: 50.0
@@ -487,10 +427,6 @@ Rewards:
           Tag:
             Value: '{count:64,id:"minecraft:firework_rocket"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     fragmento_de_cristal_extrao:
       Type: ITEM
       Weight: 40.0
@@ -518,10 +454,6 @@ Rewards:
             Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"light_purple","italic":true,"obfuscated":false,"strikethrough":false,"text":"Fragmento de cristal extraño","underlined":true}],"text":""}'',"minecraft:enchantment_glint_override":1b,"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Un extraño fragmento de cristal","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"se
               ve raro , mejor sera guardarlo","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"y para que crees que servira?","underlined":false}],"text":""}'']},count:3,id:"minecraft:amethyst_shard"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     potato:
       Type: ITEM
       Weight: 90.0
@@ -548,10 +480,6 @@ Rewards:
           Tag:
             Value: '{count:32,id:"minecraft:potato"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     key_rara_key:
       Type: ITEM
       Weight: 0.9
@@ -578,7 +506,3 @@ Rewards:
           Handler: ExcellentCrates
           ItemId: key_rara_key
           Amount: 1
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189

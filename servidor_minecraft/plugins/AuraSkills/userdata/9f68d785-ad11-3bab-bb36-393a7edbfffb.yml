@@ -7,14 +7,14 @@ skills:
     level: 2
     xp: 245.69999999999985
   auraskills/enchanting:
-    level: 0
-    xp: 0.0
+    level: 5
+    xp: 787.6000000000004
   auraskills/foraging:
     level: 0
     xp: 0.0
   auraskills/agility:
     level: 3
-    xp: 105.75945999999962
+    xp: 504.7639999999995
   auraskills/excavation:
     level: 0
     xp: 0.0
@@ -34,6 +34,9 @@ skills:
     level: 1
     xp: 42.0
 locale: es
-mana: 28.0
+mana: 38.0
 action_bar:
   idle: true
+ability_data:
+  auraskills/xp_convert:
+    xp: 13.547560000000145

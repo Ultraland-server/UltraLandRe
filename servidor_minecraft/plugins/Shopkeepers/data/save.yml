@@ -140,7 +140,7 @@ data-version: 3|2|4082
         ==: org.bukkit.inventory.ItemStack
         v: 4082
         type: AMETHYST_SHARD
-        amount: 5
+        amount: 3
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
@@ -187,6 +187,70 @@ data-version: 3|2|4082
           - '{"text":"","extra":[{"text":"mejor hay guardarlos por si acaso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           - '{"text":"","extra":[{"text":"Para que servira esta extraña roca?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           enchantment-glint-override: true
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Roca de Fragmentos de cristales
+            extraños","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una Roca con Muchos Fragmentos","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"de Cristales extraños , se ve valioso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"mejor hay guardarlos por si acaso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Para que servira esta extraña roca?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
   snapshots: []
 '2':
   uniqueId: 13b303e9-9913-4cd0-a127-e9cc85368b5d
@@ -199,6 +263,11 @@ data-version: 3|2|4082
   name: Armas Raras
   object:
     type: piglin
+    equipment:
+      HAND:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: IRON_SWORD
     baby: false
   recipes:
     '1':
@@ -2274,8 +2343,38 @@ data-version: 3|2|4082
   name: Armas Epicas
   object:
     type: piglin
+    equipment:
+      HAND:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_SWORD
     baby: false
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
   snapshots: []
 '6':
   uniqueId: 1a60be12-6243-4883-9dad-338800c74ac2
@@ -2288,7 +2387,37 @@ data-version: 3|2|4082
   name: Armas Legendarias
   object:
     type: piglin-brute
-  recipes: {}
+    equipment:
+      HAND:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_AXE
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
   snapshots: []
 '7':
   uniqueId: 423ea5cf-73db-4001-aa48-8ec1e86a7118
@@ -2327,16 +2456,13 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
           lore:
           - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           enchantment-glint-override: true
       item2:
         ==: org.bukkit.inventory.ItemStack
@@ -2363,16 +2489,13 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
           lore:
           - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           enchantment-glint-override: true
       item2:
         ==: org.bukkit.inventory.ItemStack
@@ -2399,16 +2522,13 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
           lore:
           - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           enchantment-glint-override: true
       item2:
         ==: org.bukkit.inventory.ItemStack
@@ -2436,19 +2556,541 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
           lore:
           - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
           enchantment-glint-override: true
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
         type: DIAMOND_BOOTS
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Epico","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Raro","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Epico","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Raro","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Epicas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Raras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Epicas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 7
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Raras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 5
+            minecraft:mending: 1
+            minecraft:protection: 6
+            minecraft:unbreaking: 5
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Legendario","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 10
+            minecraft:unbreaking: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Epico","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Legendario","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 10
+            minecraft:unbreaking: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Epico","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Legendarias","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 10
+            minecraft:unbreaking: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Epicas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Legendarias","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 10
+            minecraft:mending: 3
+            minecraft:protection: 10
+            minecraft:swift_sneak: 5
+            minecraft:unbreaking: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 25
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Epicas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 7
+            minecraft:mending: 2
+            minecraft:protection: 8
+            minecraft:unbreaking: 7
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Legendario Mejorado","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 12
+            minecraft:unbreaking: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Casco Legendario","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Legendario Mejorado","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 12
+            minecraft:unbreaking: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Peto Legendario","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Legendarias Mejoradas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:mending: 3
+            minecraft:protection: 12
+            minecraft:unbreaking: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Grebas Legendarias","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Legendarias Mejoradas","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          enchants:
+            minecraft:feather_falling: 12
+            minecraft:mending: 3
+            minecraft:protection: 12
+            minecraft:swift_sneak: 5
+            minecraft:unbreaking: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora de Armaduras","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Al parecer con este Cristal de Mejora","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puedes Mejorar armaduras , dandote mas proteccion","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y hasta siendo mas resistentes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"NO lo botes :)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"Botas Legendarias","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+  snapshots: []
+'8':
+  uniqueId: 00615a99-da11-4c0a-ad70-55286ecbe23f
+  world: etc
+  x: 24
+  y: 206
+  z: 8
+  yaw: 184.04733
+  type: admin
+  name: Pociones
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:cartographer
+    villagerType: minecraft:plains
+    villagerLevel: 4
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Proximamente","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
   snapshots: []
