@@ -80,10 +80,18 @@
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "menu"
+      "&cClick-para-Interactuar",
+      "&f&lMenu-&f&lde-&c&lUsuario"
     ],
     "refreshSkinDuration": 0,
-    "clickActions": [],
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "cp menu",
+        "delay": 0
+      }
+    ],
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}
