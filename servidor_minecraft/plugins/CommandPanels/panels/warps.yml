@@ -76,6 +76,15 @@ panels:
         material: GRASS_BLOCK
         stack: 1
         name: §6§lRTP
+        lore:
+        - ""
+        - "&fEn este warp podras estar con un NPC que te"
+        - "&fdejara teletransportate de manera aleatoria"
+        - "&fa cualquier parte del mundo de supervivencia"
+        - ""
+        - "&b&l» &f&lClick para Interactuar &b&l«"
+        commands:
+        - warp rtp
       '13':
         material: GOLD_BLOCK
         stack: 1

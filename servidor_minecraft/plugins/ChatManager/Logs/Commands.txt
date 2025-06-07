@@ -787,3 +787,10 @@
 [Sat Jun 07 18:11:54 UTC 2025] ItsSoulTime: /gamemode creative
 [Sat Jun 07 18:13:50 UTC 2025] ItsSoulTime: /menu
 [Sat Jun 07 18:14:25 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:22:37 UTC 2025] ItsSoulTime: /warps
+[Sat Jun 07 18:22:46 UTC 2025] ItsSoulTime: /warpinfo
+[Sat Jun 07 18:22:56 UTC 2025] ItsSoulTime: /warp rtp
+[Sat Jun 07 18:26:24 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 18:26:26 UTC 2025] ItsSoulTime: /warps
+[Sat Jun 07 18:26:31 UTC 2025] ItsSoulTime: /warps
+[Sat Jun 07 18:26:48 UTC 2025] ItsSoulTime: /warps
