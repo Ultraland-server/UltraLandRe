@@ -640,3 +640,42 @@
 [Sun Jun 01 21:05:43 UTC 2025] ItsSoulTime: /warps
 [Sun Jun 01 21:06:51 UTC 2025] ItsSoulTime: /menu
 [Sun Jun 01 21:06:56 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 16:58:06 UTC 2025] ItsSoulTime: /gamemode adventure
+[Sat Jun 07 16:58:10 UTC 2025] ItsSoulTime: /gamemode creative
+[Sat Jun 07 17:02:14 UTC 2025] ItsSoulTime: /night
+[Sat Jun 07 17:02:34 UTC 2025] ItsSoulTime: /summon minecraft:zombie ~ ~ ~ 12
+[Sat Jun 07 17:02:44 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:47 UTC 2025] ItsSoulTime: /summon minecraft:zombie 16
+[Sat Jun 07 17:02:51 UTC 2025] ItsSoulTime: /summon minecraft:zombie 16
+[Sat Jun 07 17:02:53 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:53 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:54 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:54 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:55 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:55 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:56 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:56 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:57 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:57 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:58 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:58 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:58 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:59 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:02:59 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:00 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:00 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:00 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:01 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:01 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:02 UTC 2025] ItsSoulTime: /summon minecraft:zombie
+[Sat Jun 07 17:03:07 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat Jun 07 17:04:02 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~12
+[Sat Jun 07 17:04:11 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:12 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:12 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:13 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:13 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:14 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:14 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
+[Sat Jun 07 17:04:15 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~}
+[Sat Jun 07 17:04:17 UTC 2025] ItsSoulTime: /summon minecraft:iron_golem ~ ~ ~
