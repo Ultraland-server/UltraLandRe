@@ -956,3 +956,16 @@
 [Sat Jun 07 20:20:02 UTC 2025] ItsSoulTime: /jobs browse
 [Sat Jun 07 20:22:09 UTC 2025] ItsSoulTime: /lp group user permission set jobs.use true
 [Sat Jun 07 20:23:21 UTC 2025] ItsSoulTime: /lp group default parent add user
+[Sat Jun 07 20:24:47 UTC 2025] ItsSoulTime: /lp group user permission set essentials.balance true
+[Sat Jun 07 20:24:51 UTC 2025] ItsSoulTime: /balance
+[Sat Jun 07 20:27:02 UTC 2025] ItsSoulTime: /lp group user meta addprefix "&a&lUser"
+[Sat Jun 07 20:27:07 UTC 2025] ItsSoulTime: /lp group user meta addprefix "&a&lUser"
+[Sat Jun 07 20:27:14 UTC 2025] ItsSoulTime: /lp group user meta addprefix &a&lUser
+[Sat Jun 07 20:27:43 UTC 2025] ItsSoulTime: /lp group user meta setprefix &a&lUser
+[Sat Jun 07 20:27:52 UTC 2025] ItsSoulTime: /lp group user meta setprefix &a&l[User]
+[Sat Jun 07 20:27:55 UTC 2025] ItsSoulTime: /lp group user meta setprefix &a&l[User]
+[Sat Jun 07 20:27:57 UTC 2025] ItsSoulTime: /lp group user meta setprefix &a&l[User]
+[Sat Jun 07 20:28:18 UTC 2025] ItsSoulTime: /lp user ItsSoulTime parent set user
+[Sat Jun 07 20:28:36 UTC 2025] ItsSoulTime: /lp creategroup admin
+[Sat Jun 07 20:28:45 UTC 2025] ItsSoulTime: /lp user ItsSoulTime parent set admin
+[Sat Jun 07 20:29:14 UTC 2025] ItsSoulTime: /lp group admin meta setprefix &c&l[Admin]

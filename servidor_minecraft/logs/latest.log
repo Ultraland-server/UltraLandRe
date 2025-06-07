@@ -3606,3 +3606,525 @@ java.lang.NumberFormatException: For input string: "craftbukkit"
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:24:47] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set essentials.balance true
+[20:24:47] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[20:24:47] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.balance true
+[20:24:51] [Server thread/INFO]: ItsSoulTime issued server command: /balance
+[20:25:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:25:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:26:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:26:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:27:02] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta addprefix "&a&lUser"
+[20:27:07] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta addprefix "&a&lUser"
+[20:27:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:27:14] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta addprefix &a&lUser
+[20:27:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:27:43] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta setprefix &a&lUser
+[20:27:43] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[20:27:43] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &a&lUser
+[20:27:52] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta setprefix &a&l[User]
+[20:27:52] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[20:27:52] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &a&l[User]
+[20:27:55] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta setprefix &a&l[User]
+[20:27:55] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[20:27:55] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &a&l[User]
+[20:27:57] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user meta setprefix &a&l[User]
+[20:27:57] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[20:27:57] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &a&l[User]
+[20:28:06] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:53) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.formatChat(ListenerChatColor.java:52) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.onColorChat(ListenerChatColor.java:27) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor473.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:06] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.PlaceholderManager.setPlaceholders(PlaceholderManager.java:23) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatFormat.onChatFormat(ListenerChatFormat.java:39) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor474.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:06] [Async Chat Thread - #0/INFO]: <ItsSoulTime> ds
+[20:28:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:18] [Server thread/INFO]: ItsSoulTime issued server command: /lp user ItsSoulTime parent set user
+[20:28:18] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [U] (itssoultime)
+[20:28:18] [luckperms-command-executor/INFO]: [LP] LOG > parent set user
+[20:28:19] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:53) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.formatChat(ListenerChatColor.java:52) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.onColorChat(ListenerChatColor.java:27) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor473.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:19] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.PlaceholderManager.setPlaceholders(PlaceholderManager.java:23) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatFormat.onChatFormat(ListenerChatFormat.java:39) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor474.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:19] [Async Chat Thread - #0/INFO]: <ItsSoulTime> dsa
+[20:28:36] [Server thread/INFO]: ItsSoulTime issued server command: /lp creategroup admin
+[20:28:36] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (admin)
+[20:28:36] [luckperms-command-executor/INFO]: [LP] LOG > create
+[20:28:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:28:45] [Server thread/INFO]: ItsSoulTime issued server command: /lp user ItsSoulTime parent set admin
+[20:28:45] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [U] (itssoultime)
+[20:28:45] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[20:29:13] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:29:14] [Server thread/INFO]: ItsSoulTime issued server command: /lp group admin meta setprefix &c&l[Admin]
+[20:29:14] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (admin)
+[20:29:14] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &c&l[Admin]
+[20:29:17] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:53) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.formatChat(ListenerChatColor.java:52) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatColor.onColorChat(ListenerChatColor.java:27) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor473.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:29:17] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.PlaceholderManager.setPlaceholders(PlaceholderManager.java:23) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerChatFormat.onChatFormat(ListenerChatFormat.java:39) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor474.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.adventure.ChatProcessor.post(ChatProcessor.java:378) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.adventure.ChatProcessor.process(ChatProcessor.java:85) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.chat(ServerGamePacketListenerImpl.java:2437) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.broadcastChatMessage(ServerGamePacketListenerImpl.java:2553) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChat$9(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.FutureChain.lambda$append$1(FutureChain.java:25) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:29:17] [Async Chat Thread - #0/INFO]: <ItsSoulTime> dsa
+[20:29:43] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:30:04] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[20:30:04] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.PlaceholderManager.setPlaceholders(PlaceholderManager.java:23) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerPlayerJoin.onPlayerQuit(ListenerPlayerJoin.java:183) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor491.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:539) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2130) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2110) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2097) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:910) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:268) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1917) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:453) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:30:21] [Server thread/INFO]: Stopping the server
+[20:30:21] [Server thread/INFO]: Stopping server
+[20:30:21] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.12.2
+[20:30:21] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.22.5
+[20:30:21] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[20:30:21] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[20:30:21] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.0
+[20:30:21] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[20:30:21] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[20:30:21] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[20:30:21] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:30:21] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[20:30:21] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.22
+[20:30:21] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[20:30:21] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.1
+[20:30:21] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
+[20:30:21] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v19.1.1
+[20:30:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.5
+[20:30:21] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1.1 b114
+[20:30:21] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[20:30:21] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[20:30:21] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
+[20:30:21] [Server thread/INFO]: [Quests] Disabling Quests v5.2.3-b537
+[20:30:21] [Craft Scheduler Thread - 15 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[20:30:21] [Craft Scheduler Thread - 20 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[20:30:21] [Server thread/INFO]: [Quests] Saving Quester data...
+[20:30:21] [Server thread/INFO]: [Quests] Closing storage...
+[20:30:21] [Server thread/INFO]: [AxRewards] Disabling AxRewards v3.4.3
+[20:30:22] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v11
+[20:30:22] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[20:30:22] [Server thread/INFO]: [ExcellentCrates] Disabling ExcellentCrates v6.2.0
+[20:30:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[20:30:22] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[20:30:22] [Server thread/INFO]: [ExcellentEnchants] Disabling ExcellentEnchants v4.3.3
+[20:30:22] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.3.3
+[20:30:22] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.2
+[20:30:22] [Server thread/INFO]: [ChatManager] Disabling ChatManager v3.7.7
+[20:30:22] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion chatmanager
+[20:30:22] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ChatManager was disabled.
+[20:30:22] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.5
+[20:30:22] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.0
+[20:30:22] [Server thread/INFO]: ------------- Jobs -------------
+[20:30:22] [Server thread/INFO]: Cleared boss bar cache
+[20:30:22] [Server thread/INFO]: Saved player data
+[20:30:22] [Server thread/INFO]: Closed database connection
+[20:30:22] [Server thread/INFO]: ------------------------------------
+[20:30:22] [Server thread/INFO]: [EconomyBridge] Disabling EconomyBridge v1.2.0
+[20:30:22] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[20:30:22] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[20:30:22] [Server thread/INFO]: [packetevents] Disabling packetevents v2.8.1+023a0da61-SNAPSHOT
+[20:30:22] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.16
+[20:30:22] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.4.3
+[20:30:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[20:30:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[20:30:22] [Server thread/INFO]: [nightcore] Disabling nightcore v2.7.5.2
+[20:30:22] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[20:30:22] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[20:30:22] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[20:30:22] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[20:30:22] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.3-SNAPSHOT
+[20:30:22] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[20:30:22] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[20:30:22] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[20:30:22] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[20:30:22] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:30:22] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[20:30:22] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12+7126-e57b6b6
+[20:30:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:30:22] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[20:30:22] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.164
+[20:30:22] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:30:22] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:30:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:30:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[20:30:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:30:22] [Server thread/INFO]: Saving players
+[20:30:22] [Server thread/INFO]: Saving worlds
+[20:30:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[20:30:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[20:30:22] [WebSocketConnectReadThread-172/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[20:30:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[20:30:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[etc]'/minecraft:etc
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'etc'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'etc'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'etc'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 60 entity chunks, 0 poi chunks in world 'etc' in 0.04s
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'etc'
+[20:30:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'etc'
+[20:30:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:30:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:30:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:30:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (etc): All chunks are saved
+[20:30:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:30:22] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[20:30:22] [Server thread/INFO]: All I/O tasks to complete
+[20:30:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:30:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
