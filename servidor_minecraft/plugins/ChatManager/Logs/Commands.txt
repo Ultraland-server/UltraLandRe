@@ -907,3 +907,14 @@
 [Sat Jun 07 19:27:10 UTC 2025] ItsSoulTime: /ie lore set 3 &f--------------------------------------
 [Sat Jun 07 19:27:17 UTC 2025] ItsSoulTime: /ie lore set 3 &f-----------------------------------------
 [Sat Jun 07 19:27:21 UTC 2025] ItsSoulTime: /ie lore set 3 &f---------------------------------------------
+[Sat Jun 07 19:56:01 UTC 2025] ItsSoulTime: /znpcs create 4 player jenny
+[Sat Jun 07 19:56:46 UTC 2025] ItsSoulTime: /znpcs skin 4 https://imgur.com/zFWAZHK
+[Sat Jun 07 20:00:22 UTC 2025] ItsSoulTime: /si save cosarara
+[Sat Jun 07 20:00:29 UTC 2025] ItsSoulTime: /s
+[Sat Jun 07 20:00:34 UTC 2025] ItsSoulTime: /si show
+[Sat Jun 07 20:01:48 UTC 2025] ItsSoulTime: /si buy cosarara 500
+[Sat Jun 07 20:02:07 UTC 2025] ItsSoulTime: /si sell
+[Sat Jun 07 20:02:15 UTC 2025] ItsSoulTime: /si sell cosarara 1
+[Sat Jun 07 20:02:22 UTC 2025] ItsSoulTime: /si sell cosarara 1 ItsSoulTime 500
+[Sat Jun 07 20:02:32 UTC 2025] ItsSoulTime: /si sell cosarara 1 ItsSoulTime 500
+[Sat Jun 07 20:02:56 UTC 2025] ItsSoulTime: /si sell cosarara 1 500

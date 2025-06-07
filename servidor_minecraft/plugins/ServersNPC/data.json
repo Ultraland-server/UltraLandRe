@@ -95,5 +95,29 @@
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}
+  },
+  {
+    "id": 4,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTY1ODQwMDk2NTg2OCwKICAicHJvZmlsZUlkIiA6ICI5ZWEyMTQ0NGFiNjI0MWZkYjg5YjE2NDFhNDg2MGZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICI3QUJDSE9VTiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yN2I5NjEzZjYyZTMxNGRiN2UwODA2YzRlMWE4NzY5NmNhMDM0ZjA4MTk4YmFjYTEwMmVjOTc3N2FkNjdjODkzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+    "signature": "k31m+BmhL9mm5WiUMWz9EKSBZU4wAPGqeNMTNEIJ9rFgoWCejn92KC0BuzTOuAmSjSfO7f0sQopCTd2Tzp4yJlfGF5ouSSY6AJXNuEQf0Ueu1dHa9EhpVE6+qePIM8jd09Q/ARnNY6qHriqEaWReInssOHM6b+O0SHDdyL1Q94t5y2xgBPUiz27kez9wAxxuRmvuKYttrWKVvwP78MzIYVrjuRBPg9dKv+mO+Xeg3Goa+eOQSmG6gZThNYXNiv073z4yWvsRRT4O9xHaZMp2O2hw7pB772EtC602oRz22MbWWkceFwpY717kzh8UN02KitWGJky9h+gjDs51iaBIluA9O2tpURF3LzYzZ4RiLUqVsIeqIKFUidCDF1vxdGRH9R0m6rHcj5WyDa6Glted321hWA/oNbVh396q6b3i/+sPzKtd9/cqkrkQ3THJd/UenvVaPSsPX4tqqDj24c10ZfyVWNo9pDI55SgDFEgnHXTH2l6/De0vXlpjWmBz9nWeUtP655+yUw8nrYOKQyIGDGUIXv9BZ1vJT4oLUaJ4TdkORDKst5d/5L6k6tpLrJvaT4FjaIzEZ/wLVdRu+MFZQw4y4sZFsLVbHDKM7sDuwTMQNddP9rmIwZCSqHgWXn8G6Wd0pgjETk9N7wSDBwzpAp4vPOWF6SIppTfwCpMc5TE=",
+    "skinName": "https://imgur.com/zFWAZHK",
+    "location": {
+      "world": "etc",
+      "x": -0.5,
+      "y": 231.0625,
+      "z": 25.5,
+      "yaw": -155.46814,
+      "pitch": 11.691386
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "jenny"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {},
+    "customizationMap": {}
   }
 ]

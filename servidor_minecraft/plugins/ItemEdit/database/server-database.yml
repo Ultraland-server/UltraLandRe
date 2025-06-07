@@ -1,0 +1,66 @@
+cosarara:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 4082
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"text":"","extra":[{"text":"CΣʍεn","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true}]}'
+      lore:
+      - '""'
+      - '{"text":"","extra":[{"text":"Toma esto y excitate pajero o pajera culiao/culiaa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+      - '{"text":"","extra":[{"text":"---------------------------------------------","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+      - '{"text":"","extra":[{"text":"(Si lees esto por favor no pienses nada tan
+        raro","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"white","bold":false}]}'
+      - '{"text":"","extra":[{"text":"esto fue una peticion de otro weon que esta
+        obsesionado","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"white","bold":false}]}'
+      - '{"text":"","extra":[{"text":"con el jennys mod , y para que se quede tranquilo
+        hice esto","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"white","bold":false}]}'
+      - '{"text":"","extra":[{"text":"simplemente perturbate o cagate de risa , tu
+        decides)","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"white","bold":false}]}'
+      custom-model-data: 1
+      enchantment-glint-override: true
+      potion-type: minecraft:awkward
+      custom-color:
+        ==: Color
+        ALPHA: 255
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+      custom-effects:
+      - ==: PotionEffect
+        effect: minecraft:nausea
+        duration: 600
+        amplifier: 0
+        ambient: false
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:blindness
+        duration: 600
+        amplifier: 0
+        ambient: false
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:slowness
+        duration: 600
+        amplifier: 0
+        ambient: false
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:hunger
+        duration: 200
+        amplifier: 0
+        ambient: false
+        has-particles: true
+        has-icon: true
+      - ==: PotionEffect
+        effect: minecraft:weakness
+        duration: 200
+        amplifier: 0
+        ambient: false
+        has-particles: true
+        has-icon: true
