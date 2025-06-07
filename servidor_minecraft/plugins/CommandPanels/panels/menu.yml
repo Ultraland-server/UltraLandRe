@@ -103,8 +103,8 @@ panels:
         stack: 1
         name: '&f&ka &f&lTus Estadisticas &f&ka'
         lore:
-- '&2Heal Yourself and'
-- '&2change gamemode to survival.'
+        - ''
+        - '&fTu Nombre:&e %cp-player-displayname%' 
 
       '23':
         material: RED_BED

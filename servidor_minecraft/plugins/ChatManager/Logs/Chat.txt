@@ -61,3 +61,6 @@
 [Sat Jun 07 17:14:32 UTC 2025] ItsSoulTime: &ka &e&lTus Estadisticas &f&ka
 [Sat Jun 07 17:14:39 UTC 2025] ItsSoulTime: &ka &f&lTus Estadisticas &f&ka
 [Sat Jun 07 17:15:12 UTC 2025] ItsSoulTime: &ka &f&lTus Estadisticas &f&ka
+[Sat Jun 07 17:18:03 UTC 2025] ItsSoulTime: ⌚ Haz jugado :
+[Sat Jun 07 17:26:11 UTC 2025] ItsSoulTime: &e
+[Sat Jun 07 17:26:13 UTC 2025] ItsSoulTime: &edsa

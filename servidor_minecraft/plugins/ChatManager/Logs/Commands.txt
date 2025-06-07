@@ -696,3 +696,12 @@
 [Sat Jun 07 17:15:06 UTC 2025] ItsSoulTime: /menu
 [Sat Jun 07 17:15:28 UTC 2025] ItsSoulTime: /cpr
 [Sat Jun 07 17:15:34 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:17:06 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:17:10 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:19:28 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %player_time%
+[Sat Jun 07 17:20:42 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %statistic_hours_played%
+[Sat Jun 07 17:20:55 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %statistic_time_played%
+[Sat Jun 07 17:23:13 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:23:14 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:26:00 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:26:04 UTC 2025] ItsSoulTime: /menu
