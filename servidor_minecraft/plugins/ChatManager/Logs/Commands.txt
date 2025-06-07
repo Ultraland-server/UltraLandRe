@@ -847,3 +847,8 @@
 [Sat Jun 07 18:48:40 UTC 2025] ItsSoulTime: /znpcs lines 3 &f&lMenu-&f&lde-&c&lUsuario &cClick-para-Interactuar
 [Sat Jun 07 18:49:49 UTC 2025] ItsSoulTime: /shopkeeper help
 [Sat Jun 07 18:51:24 UTC 2025] ItsSoulTime: /day
+[Sat Jun 07 19:04:31 UTC 2025] ItsSoulTime: /ie glider true
+[Sat Jun 07 19:04:34 UTC 2025] ItsSoulTime: /ie glider false
+[Sat Jun 07 19:04:38 UTC 2025] ItsSoulTime: /ie glider true
+[Sat Jun 07 19:04:56 UTC 2025] ItsSoulTime: /ie potioneffect reset
+[Sat Jun 07 19:07:00 UTC 2025] ItsSoulTime: /effect give ItsSoulTime minecraft:nausea
