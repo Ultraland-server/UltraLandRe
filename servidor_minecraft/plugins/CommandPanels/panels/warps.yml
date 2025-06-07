@@ -89,10 +89,23 @@ panels:
         material: GOLD_BLOCK
         stack: 1
         name: §e§lTienda
+        lore:
+        - ""
+        - "&fSi vas a este warp podras ir a la tienda Rapidamente"
+        - "&fy comprar pues todo lo que quieras o vender todo lo que"
+        - "&fquieras para conseguir dinero (No hay devulociones)"
+        - ""
+        - "&b&l» &f&lClick para Interactuar &b&l«"
+        commands:
+        - warp tienda
       '14':
         material: ENDER_CHEST
         stack: 1
         name: §e§lCrates
+        lore:
+        - ""
+        - "&fAqui en este warp podras abrir unas cajas "
+        - "Con recompensas aleatorias , aunque se puede ver"
       '17':
         material: RED_STAINED_GLASS_PANE
         stack: 1
