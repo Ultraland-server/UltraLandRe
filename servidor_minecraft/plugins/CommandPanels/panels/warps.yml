@@ -105,7 +105,13 @@ panels:
         lore:
         - ""
         - "&fAqui en este warp podras abrir unas cajas "
-        - "Con recompensas aleatorias , aunque se puede ver"
+        - "&fCon recompensas aleatorias , aunque se puede ver"
+        - "&fQue te Puede tocar , eso si reza para tener suerte"
+        - "&fY que salga lo que quieres (se recomienda cruzar los dedos)"
+        - ""
+        - "&b&l» &f&lClick para Interactuar &b&l«"
+        commands:
+        - warp crates
       '17':
         material: RED_STAINED_GLASS_PANE
         stack: 1

@@ -7347,3 +7347,330 @@ java.lang.NumberFormatException: For input string: "craftbukkit"
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:37:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:37:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:38:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:38:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:38:43] [Server thread/INFO]: ItsSoulTime issued server command: /cpr
+[18:38:44] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:39:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:39:24] [Server thread/INFO]: ItsSoulTime issued server command: /cpr
+[18:39:26] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:39:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:39:57] [Server thread/INFO]: ItsSoulTime issued server command: /cpr
+[18:39:59] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:40:08] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:11] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:17] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:21] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:26] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:40:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:41:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:41:05] [Server thread/INFO]: ItsSoulTime issued server command: /warp crates
+[18:41:16] [Server thread/INFO]: ItsSoulTime issued server command: /cpr
+[18:41:20] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:41:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:42:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:42:08] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:42:23] [Server thread/INFO]: ItsSoulTime issued server command: /warp
+[18:42:27] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:42:32] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:42:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:42:36] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:42:49] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:42:54] [Server thread/INFO]: ItsSoulTime issued server command: /warps
+[18:42:57] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:43:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:43:26] [Server thread/INFO]: ItsSoulTime issued server command: /cp menu
+[18:43:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:44:02] [Server thread/INFO]: ItsSoulTime issued server command: /znpcs create 3 player menu
+[18:44:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:44:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:45:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:45:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:45:36] [Server thread/INFO]: ItsSoulTime issued server command: /znpcs skin 3 https://imgur.com/N3ZsicY
+[18:45:50] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[18:46:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:46:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:46:46] [Server thread/INFO]: ItsSoulTime issued server command: /cp menu
