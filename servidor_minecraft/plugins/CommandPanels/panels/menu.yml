@@ -109,7 +109,9 @@ panels:
         - '&f⚔ Haz Matado: &e%statistic_player_kills% jugadores '
         - '&f☠ Haz Muerto: &e%statistic_deaths% veces '
         - '&f⛃ Tienes : &e%vault_eco_balance% de Dinero'
-        - '&f❤ Tienes : &e%auraskills_hp% ' 
+        - '&f❤ Tienes : &e%auraskills_hp% de vida' 
+        - '&f☽ Tienes : &e%auraskills_mana% de Mana'
+        - '&f★ Tienes : &e%player_level% Niveles (Vanilla)'
 
       '23':
         material: RED_BED

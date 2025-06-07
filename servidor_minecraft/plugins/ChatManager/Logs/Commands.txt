@@ -747,3 +747,23 @@
 [Sat Jun 07 17:54:57 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_hp%
 [Sat Jun 07 17:56:33 UTC 2025] ItsSoulTime: /cpr
 [Sat Jun 07 17:56:35 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:56:52 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:56:55 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:58:07 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_mana%
+[Sat Jun 07 17:58:52 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:58:53 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:59:31 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 17:59:33 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 17:59:59 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %player_level%
+[Sat Jun 07 18:00:02 UTC 2025] ItsSoulTime: /gamemode spectator
+[Sat Jun 07 18:00:03 UTC 2025] ItsSoulTime: /gamemode survival
+[Sat Jun 07 18:00:05 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %player_level%
+[Sat Jun 07 18:00:22 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %player_level%
+[Sat Jun 07 18:01:46 UTC 2025] ItsSoulTime: /cpr
+[Sat Jun 07 18:01:48 UTC 2025] ItsSoulTime: /menu
+[Sat Jun 07 18:02:28 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_rank%
+[Sat Jun 07 18:02:52 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_power%
+[Sat Jun 07 18:02:57 UTC 2025] ItsSoulTime: /skills
+[Sat Jun 07 18:03:30 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_rank%
+[Sat Jun 07 18:04:06 UTC 2025] ItsSoulTime: /papi parse ItsSoulTime %auraskills_actionbar_status%
+[Sat Jun 07 18:06:42 UTC 2025] ItsSoulTime: /menu
