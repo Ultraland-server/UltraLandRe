@@ -8956,3 +8956,181 @@ java.lang.NumberFormatException: For input string: "craftbukkit"
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [19:27:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &f--------------------------------------
+[19:27:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &f-----------------------------------------
+[19:27:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &f---------------------------------------------
+[19:27:33] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:28:03] [Server thread/WARN]: [ChatManager] Task #43 for ChatManager v3.7.7 generated an exception
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.AutoBroadcastManager$1.run(AutoBroadcastManager.java:40) ~[ChatManager_3.7.7.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1803) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:28:24] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[19:28:24] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to ChatManager v3.7.7
+java.lang.NumberFormatException: For input string: "craftbukkit"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:662) ~[?:?]
+	at java.base/java.lang.Integer.parseInt(Integer.java:778) ~[?:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.utils.Version.getCurrentVersion(Version.java:38) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.Methods.color(Methods.java:67) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.managers.PlaceholderManager.setPlaceholders(PlaceholderManager.java:23) ~[ChatManager_3.7.7.jar:?]
+	at ChatManager_3.7.7.jar/me.h1dd3nxn1nja.chatmanager.listeners.ListenerPlayerJoin.onPlayerQuit(ListenerPlayerJoin.java:183) ~[ChatManager_3.7.7.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor491.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:539) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2130) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2110) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2097) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:910) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:268) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1917) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:453) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:28:59] [Server thread/INFO]: Stopping the server
+[19:28:59] [Server thread/INFO]: Stopping server
+[19:28:59] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.12.2
+[19:28:59] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.22.5
+[19:28:59] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[19:28:59] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[19:28:59] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.0
+[19:28:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[19:28:59] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[19:28:59] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[19:28:59] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[19:28:59] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[19:28:59] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.22
+[19:28:59] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[19:28:59] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.1
+[19:28:59] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
+[19:28:59] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v19.1.1
+[19:28:59] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.4
+[19:28:59] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1.1 b114
+[19:28:59] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[19:28:59] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[19:28:59] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
+[19:28:59] [Server thread/INFO]: [Quests] Disabling Quests v5.2.3-b537
+[19:28:59] [Server thread/INFO]: [Quests] Saving Quester data...
+[19:28:59] [Server thread/INFO]: [Quests] Closing storage...
+[19:28:59] [Craft Scheduler Thread - 14 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[19:28:59] [Craft Scheduler Thread - 21 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[19:28:59] [Server thread/INFO]: [AxRewards] Disabling AxRewards v3.4.3
+[19:28:59] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v11
+[19:28:59] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[19:28:59] [Server thread/INFO]: [ExcellentCrates] Disabling ExcellentCrates v6.2.0
+[19:28:59] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[19:28:59] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[19:28:59] [Server thread/INFO]: [ExcellentEnchants] Disabling ExcellentEnchants v4.3.3
+[19:28:59] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.3.3
+[19:28:59] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.2
+[19:28:59] [Server thread/INFO]: [ChatManager] Disabling ChatManager v3.7.7
+[19:28:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion chatmanager
+[19:28:59] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ChatManager was disabled.
+[19:28:59] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.5
+[19:28:59] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.0
+[19:28:59] [Server thread/INFO]: ------------- Jobs -------------
+[19:28:59] [Server thread/INFO]: Cleared boss bar cache
+[19:28:59] [Server thread/INFO]: Saved player data
+[19:28:59] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[19:28:59] [Server thread/INFO]: Closed database connection
+[19:28:59] [Server thread/INFO]: ------------------------------------
+[19:28:59] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[19:28:59] [Server thread/INFO]: [EconomyBridge] Disabling EconomyBridge v1.2.0
+[19:28:59] [Server thread/INFO]: [packetevents] Disabling packetevents v2.8.1+023a0da61-SNAPSHOT
+[19:28:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.16
+[19:28:59] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.4.3
+[19:28:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[19:28:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[19:28:59] [Server thread/INFO]: [nightcore] Disabling nightcore v2.7.5.2
+[19:28:59] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[19:28:59] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[19:28:59] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[19:28:59] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[19:28:59] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.3-SNAPSHOT
+[19:28:59] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[19:28:59] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[19:28:59] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[19:28:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[19:28:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[19:28:59] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[19:28:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12+7126-e57b6b6
+[19:28:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[19:28:59] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[19:28:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.164
+[19:28:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:28:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:28:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:28:59] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[19:28:59] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:28:59] [Server thread/INFO]: Saving players
+[19:29:00] [Server thread/INFO]: Saving worlds
+[19:29:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:29:00] [WebSocketConnectReadThread-182/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[19:29:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:29:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:29:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[etc]'/minecraft:etc
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'etc'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'etc'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'etc'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 33 entity chunks, 0 poi chunks in world 'etc' in 0.02s
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'etc'
+[19:29:00] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'etc'
+[19:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (etc): All chunks are saved
+[19:29:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:29:00] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[19:29:00] [Server thread/INFO]: All I/O tasks to complete
+[19:29:00] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:29:00] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
