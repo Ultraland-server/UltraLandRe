@@ -107,6 +107,8 @@ panels:
         - '&f➤ Tu Nombre: &e%player_name%    ' 
         - '&f⌚ Haz jugado : &e%statistic_time_played%'
         - '&f⚔ Haz Matado: &e%statistic_player_kills% jugadores '
+        - '&f☠ Haz Muerto: &e%statistic_deaths% veces '
+        - '&f⛃ Tienes : &e%vault_eco_balance% de Dinero'
 
       '23':
         material: RED_BED
