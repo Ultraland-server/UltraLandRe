@@ -884,3 +884,24 @@
 [Sat Jun 07 19:15:37 UTC 2025] ItsSoulTime: /ie potioneffect add invisibility 10 1 true
 [Sat Jun 07 19:16:01 UTC 2025] ItsSoulTime: /ie potioneffect add blindness 30 1
 [Sat Jun 07 19:16:17 UTC 2025] ItsSoulTime: /ie potioneffect add invisibility 5 1 true
+[Sat Jun 07 19:17:13 UTC 2025] ItsSoulTime: /ie color 255 255 255
+[Sat Jun 07 19:17:31 UTC 2025] ItsSoulTime: /ie potioneffect remove invisibility
+[Sat Jun 07 19:18:23 UTC 2025] ItsSoulTime: /ie potioneffect add slowness 30 1 true
+[Sat Jun 07 19:18:55 UTC 2025] ItsSoulTime: /ie potioneffect add hunger 10 1 true
+[Sat Jun 07 19:19:12 UTC 2025] ItsSoulTime: /ie potioneffect add weakness 10 1 true
+[Sat Jun 07 19:20:13 UTC 2025] ItsSoulTime: /ie rename &f&lCΣʍεn
+[Sat Jun 07 19:20:58 UTC 2025] ItsSoulTime: /ie lore add
+[Sat Jun 07 19:21:17 UTC 2025] ItsSoulTime: /ie lore add Toma esto y excitate pajero culiao
+[Sat Jun 07 19:21:37 UTC 2025] ItsSoulTime: /ie lore set 2 &fToma esto y excitate pajero culiao
+[Sat Jun 07 19:22:05 UTC 2025] ItsSoulTime: /ie lore set 2 &fToma esto y excitate pajero o pajera culiao/culiaa
+[Sat Jun 07 19:22:30 UTC 2025] ItsSoulTime: /ie lore add
+[Sat Jun 07 19:23:08 UTC 2025] ItsSoulTime: /ie lore add (Si lees esto por favor no pienses nada tan raro
+[Sat Jun 07 19:23:32 UTC 2025] ItsSoulTime: /ie lore add esto fue una peticion de otros weon que esta obsesionado
+[Sat Jun 07 19:23:50 UTC 2025] ItsSoulTime: /ie lore add con el jennys mod y para que se quede tranquilo hice esto
+[Sat Jun 07 19:24:28 UTC 2025] ItsSoulTime: /ie lore add simplemente perturbate o cagate de risa , tu decides)
+[Sat Jun 07 19:25:15 UTC 2025] ItsSoulTime: /ie lore set 4 &f&n(Si lees esto por favor no pienses nada tan raro
+[Sat Jun 07 19:25:36 UTC 2025] ItsSoulTime: /ie lore set 5 &f&nesto fue una peticion de otros weon que esta obsesionado
+[Sat Jun 07 19:25:44 UTC 2025] ItsSoulTime: /ie lore set 5 &f&nesto fue una peticion de otro weon que esta obsesionado
+[Sat Jun 07 19:26:23 UTC 2025] ItsSoulTime: /ie lore set 6 &f&ncon el jennys mod , y para que se quede tranquilo hice esto
+[Sat Jun 07 19:26:47 UTC 2025] ItsSoulTime: /ie lore set 7 &f&nsimplemente perturbate o cagate de risa , tu decides)
+[Sat Jun 07 19:27:10 UTC 2025] ItsSoulTime: /ie lore set 3 &f--------------------------------------
