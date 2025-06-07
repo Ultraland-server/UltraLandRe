@@ -112,10 +112,19 @@
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "jenny"
+      "&fY-&fComprar-&falgo",
+      "&7Click-&7para-&7Interactuar",
+      "&f&lJenny"
     ],
     "refreshSkinDuration": 0,
-    "clickActions": [],
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "si sell cosarara 1 %player_name% 500",
+        "delay": 0
+      }
+    ],
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}

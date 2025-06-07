@@ -918,3 +918,19 @@
 [Sat Jun 07 20:02:22 UTC 2025] ItsSoulTime: /si sell cosarara 1 ItsSoulTime 500
 [Sat Jun 07 20:02:32 UTC 2025] ItsSoulTime: /si sell cosarara 1 ItsSoulTime 500
 [Sat Jun 07 20:02:56 UTC 2025] ItsSoulTime: /si sell cosarara 1 500
+[Sat Jun 07 20:04:24 UTC 2025] ItsSoulTime: /si sell cosarara 1 ItsSoulTime 500
+[Sat Jun 07 20:05:02 UTC 2025] ItsSoulTime: /znpcs action 4 add CMD si sell cosarara 1 %player_name% 500
+[Sat Jun 07 20:05:39 UTC 2025] ItsSoulTime: /znpcs customize 4
+[Sat Jun 07 20:08:08 UTC 2025] ItsSoulTime: /znpcs lines 4 &f&lJenny &7Click-&7para-&7Interactuar
+[Sat Jun 07 20:08:47 UTC 2025] ItsSoulTime: /znpcs lines 4 &f&lJenny &7Click-&7para-&7Interactuar &fY-&7Comprar-&7algo
+[Sat Jun 07 20:09:06 UTC 2025] ItsSoulTime: /znpcs lines 4 &f&lJenny &7Click-&7para-&7Interactuar &fY-&fComprar-&falgo
+[Sat Jun 07 20:09:23 UTC 2025] ItsSoulTime: /deop
+[Sat Jun 07 20:09:25 UTC 2025] ItsSoulTime: /deop ItsSoulTime
+[Sat Jun 07 20:10:29 UTC 2025] ItsSoulTime: /lp group default rename user
+[Sat Jun 07 20:11:02 UTC 2025] ItsSoulTime: /lp group user permission set betterrtp.biome
+[Sat Jun 07 20:12:06 UTC 2025] ItsSoulTime: /lp group user permission set betterrtp.use
+[Sat Jun 07 20:12:18 UTC 2025] ItsSoulTime: /lp group user permission set betterrtp.world.world
+[Sat Jun 07 20:12:20 UTC 2025] ItsSoulTime: /mv list
+[Sat Jun 07 20:13:26 UTC 2025] ItsSoulTime: /lp group user permission set skinsrestorer.command
+[Sat Jun 07 20:13:28 UTC 2025] ItsSoulTime: /lp group user permission set skinsrestorer.player
+[Sat Jun 07 20:13:32 UTC 2025] ItsSoulTime: /lp group user permission set skinsrestorer.ownskin
