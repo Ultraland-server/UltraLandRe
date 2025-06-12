@@ -4722,3 +4722,27 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [19:35:19] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [19:35:44] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [19:36:28] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:37:24] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:39:04] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime rara_key
+[19:40:16] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:40:58] [Server thread/INFO]: ItsSoulTime issued server command: /papi ecloud download Statistic
+[19:40:58] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:41:03] [Server thread/INFO]: ItsSoulTime issued server command: /papi reload
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: bungee [2.3]
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[19:41:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[19:42:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant efficiency 8
+[19:42:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[19:42:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 8
+[19:42:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fortune 5
+[19:43:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 2 &f&l➤ &bEste Pico no parece normal
+[19:44:54] [Server thread/INFO]: ItsSoulTime issued server command: /v
+[19:44:56] [Server thread/INFO]: ItsSoulTime issued server command: /v
+[19:44:59] [Server thread/INFO]: ItsSoulTime issued server command: /v
+[19:45:06] [Server thread/INFO]: ItsSoulTime issued server command: /v
+[19:45:21] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:46:46] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor

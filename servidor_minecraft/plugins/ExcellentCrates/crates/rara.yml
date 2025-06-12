@@ -225,3 +225,187 @@ Rewards:
             Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sculk ","underlined":false},{"bold":true,"color":"dark_gray","italic":false,"text":"Sword"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:exp_hunter":3,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":8,"minecraft:sweeping_edge":5,"minecraft:unbreaking":6,"minecraft:venom":2}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
               ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Esta espada parece que da más exp y parece"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Que Tendra chances de meter veneno","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
             DataVersion: 4082
+    sculk_cleaver:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sculk ","underlined":false},{"bold":true,"color":"dark_gray","italic":false,"text":"Cleaver"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:exp_hunter":3,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":9,"minecraft:sweeping_edge":6,"minecraft:unbreaking":6,"minecraft:venom":2}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤","underlined":false}],"text":""}'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Esta \\"Espada\\" Bastante grande parece ser fuerte pero lenta"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Se Ve que ganas mas EXP y Tendras chances de meter veneno","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+    golden_apple:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:10,id:"minecraft:golden_apple"}'
+            DataVersion: 4082
+    enchanted_golden_apple:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:3,id:"minecraft:enchanted_golden_apple"}'
+            DataVersion: 4082
+    diamond_pickaxe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":8,"minecraft:fortune":5,"minecraft:mending":2,"minecraft:unbreaking":8}}},count:1,id:"minecraft:diamond_pickaxe"}'
+            DataVersion: 4082
+    pico_3x3:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Pico 3x3","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:tunnel":3,"minecraft:unbreaking":7}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤ ","underlined":false},{"bold":false,"color":"aqua","italic":false,"text":"Este
+              Pico no parece normal"}],"text":""}'',''{"extra":[{"bold":false,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Parece que al Picar minas 3x3 de bloques","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Servira para acabar con mas espacio al picar ¿no?","underlined":false}],"text":""}'']},count:1,id:"minecraft:diamond_pickaxe"}'
+            DataVersion: 4082
+    diamond_axe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:unbreaking":7}}},count:1,id:"minecraft:diamond_axe"}'
+            DataVersion: 4082
+    diamond_shovel:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:unbreaking":7}}},count:1,id:"minecraft:diamond_shovel"}'
+            DataVersion: 4082
