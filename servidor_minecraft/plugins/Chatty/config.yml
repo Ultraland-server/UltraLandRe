@@ -607,7 +607,7 @@ miscellaneous:
       enable: true
 
       # Set to '' if you want to make it hidden.
-      message: '{prefix} %e%player_name% {suffix} &e a entrado al servidor.'
+      message: '{prefix} &e%player_name% {suffix} &ea entrado al servidor.'
 
       # Plays sound to all, when player joins.
       # Remove the line if not needed.
