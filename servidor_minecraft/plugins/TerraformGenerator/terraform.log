@@ -1702,3 +1702,13 @@
 [2025-06-12 17:41:47] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2025-06-12 17:41:47] [INFO   ]  Injection success! Proceeding with generation. 
 [2025-06-12 17:41:49] [INFO   ]  world loaded. 
+[2025-06-12 18:29:23] [INFO   ] Will spawn stronghold at: CoordPair[x=292, z=1377] 
+[2025-06-12 18:29:23] [INFO   ] Large Cave at -192,10,320 has water level > -29 with populator LargeLushCavePopulator 
+[2025-06-12 18:29:27] [INFO   ] Spawning DeepCavePopulator at -192,-34,192 
+[2025-06-12 18:29:27] [INFO   ] Spawning MossyCavePopulator at -192,-32,199 
+[2025-06-12 18:29:27] [INFO   ] Spawning CaveFluidClusterPopulator at -200,-11,200 
+[2025-06-12 18:29:28] [INFO   ] Spawning DripstoneClusterCavePopulator at -256,18,256 
+[2025-06-12 18:29:29] [INFO   ] Spawning FrozenCavePopulator at -240,13,311 
+[2025-06-12 18:29:29] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,20 
+[2025-06-12 18:29:30] [INFO   ] Spawning CrystallineClusterCavePopulator at -258,29,172 
+[2025-06-12 18:29:31] [INFO   ] Spawning LushClusterCavePopulator at -320,27,192 

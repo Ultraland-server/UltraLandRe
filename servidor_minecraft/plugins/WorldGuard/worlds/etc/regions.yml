@@ -14,8 +14,19 @@ regions:
         min: {x: -35, y: -64, z: -68}
         max: {x: 92, y: 318, z: 56}
         members: {}
-        flags: {natural-health-regen: allow, creeper-explosion: deny, invincible: allow,
-            mob-damage: deny, pvp: deny, mob-spawning: deny}
+        flags:
+            natural-health-regen: allow
+            other-explosion: deny
+            creeper-explosion: deny
+            spawn: {world: etc, x: 8.517708148173476, y: 220.0, z: -7.300000011920929,
+                pitch: 4.4686985, yaw: 179.81482}
+            build: deny
+            invincible: allow
+            fall-damage: deny
+            mob-damage: deny
+            pvp: deny
+            mob-spawning: deny
+            firework-damage: deny
         owners: {}
         type: cuboid
         priority: 0
