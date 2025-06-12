@@ -2564,3 +2564,124 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [01:02:16] [Server thread/INFO]: ItsSoulTime issued server command: /lp user ItsSoulTime parent set admin
 [01:02:16] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [U] (itssoultime)
 [01:02:16] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[01:05:23] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[01:05:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[01:05:23] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .ultra: Animation "ultra" has refresh interval of 62, which is not divisible by 50! Using 50.
+[01:05:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[01:05:23] [Server thread/INFO]: [TAB] Enabled in 6ms
+[01:05:59] [Server thread/INFO]: ItsSoulTime issued server command: /tab
+[01:06:05] [Server thread/INFO]: ItsSoulTime issued server command: /bukkit:?
+[01:07:36] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[01:07:36] [Server thread/INFO]: > [Admin] ItsSoulTime  se ah ido del servidor.
+[01:08:05] [Server thread/INFO]: Stopping the server
+[01:08:05] [Server thread/INFO]: Stopping server
+[01:08:05] [Server thread/INFO]: [TAB] Disabling TAB v5.2.1
+[01:08:05] [Server thread/INFO]: [TAB] Disabled in 0ms
+[01:08:05] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.12.2
+[01:08:05] [Server thread/INFO]: [CommandPanels] Disabling CommandPanels v3.22.5
+[01:08:05] [Server thread/INFO]: RockyHawk's CommandPanels Plugin Disabled, aww man.
+[01:08:05] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[01:08:05] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.0
+[01:08:05] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[01:08:05] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[01:08:05] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.6
+[01:08:05] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[01:08:05] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.6
+[01:08:05] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.22
+[01:08:05] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[01:08:05] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.1
+[01:08:05] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
+[01:08:05] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v19.1.1
+[01:08:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.5
+[01:08:05] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1.1 b114
+[01:08:05] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[01:08:05] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[01:08:05] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[01:08:05] [Server thread/INFO]: [AxRewards] Disabling AxRewards v3.4.3
+[01:08:05] [Craft Scheduler Thread - 13 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[01:08:05] [Craft Scheduler Thread - 16 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[01:08:05] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v11
+[01:08:05] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[01:08:05] [Server thread/INFO]: [ExcellentCrates] Disabling ExcellentCrates v6.2.0
+[01:08:05] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[01:08:05] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[01:08:05] [Server thread/INFO]: [ExcellentEnchants] Disabling ExcellentEnchants v4.3.3
+[01:08:05] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.3.3
+[01:08:05] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.2
+[01:08:05] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.5
+[01:08:05] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.0
+[01:08:05] [Server thread/INFO]: ------------- Jobs -------------
+[01:08:05] [Server thread/INFO]: Cleared boss bar cache
+[01:08:05] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[01:08:05] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[01:08:05] [Server thread/INFO]: Saved player data
+[01:08:05] [Server thread/INFO]: Closed database connection
+[01:08:05] [Server thread/INFO]: ------------------------------------
+[01:08:05] [Server thread/INFO]: [EconomyBridge] Disabling EconomyBridge v1.2.0
+[01:08:05] [Server thread/INFO]: [packetevents] Disabling packetevents v2.8.1+023a0da61-SNAPSHOT
+[01:08:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.16
+[01:08:05] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.4.3
+[01:08:05] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[01:08:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[01:08:05] [Server thread/INFO]: [nightcore] Disabling nightcore v2.7.5.2
+[01:08:05] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[01:08:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[01:08:05] [Server thread/INFO]: [Chatty] Disabling Chatty v2.19.14
+[01:08:05] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[01:08:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.3-SNAPSHOT
+[01:08:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[01:08:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[01:08:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:08:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:08:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-1+2f13ae0
+[01:08:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[01:08:05] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[01:08:05] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.12+7126-e57b6b6
+[01:08:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:08:05] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[01:08:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.164
+[01:08:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:08:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:08:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:08:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[01:08:05] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:08:05] [Server thread/INFO]: Saving players
+[01:08:05] [Server thread/INFO]: Saving worlds
+[01:08:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:08:05] [WebSocketConnectReadThread-180/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 24 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:08:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:08:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:08:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[etc]'/minecraft:etc
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'etc'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'etc'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'etc'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 31 entity chunks, 0 poi chunks in world 'etc' in 0.03s
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'etc'
+[01:08:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'etc'
+[01:08:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:08:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:08:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:08:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (etc): All chunks are saved
+[01:08:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:08:05] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:08:05] [Server thread/INFO]: All I/O tasks to complete
+[01:08:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:08:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

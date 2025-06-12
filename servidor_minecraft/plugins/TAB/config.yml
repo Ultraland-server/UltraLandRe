@@ -6,7 +6,7 @@ header-footer:
     - "&fJuegas ahora mismo en"
     - "%animation:ultra%"
     - ""
-    - "&r&aJugadores : %online% / 20"
+    - "&rJugadores : &r%online% &8/ &r20"
     - ""
     - ""
   footer:
