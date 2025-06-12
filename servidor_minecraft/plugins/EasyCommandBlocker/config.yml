@@ -36,6 +36,11 @@ tab:
      - "/skin update"
      - "/skin menu"
      - "/tpahere"
+     - "/warp armaduras"
+     - "/warp armas"
+     - "/warp crates"
+     - "/warp rtp"
+     - "/warp tienda"
     
   vip:
     priority: 1
