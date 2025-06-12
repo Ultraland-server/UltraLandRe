@@ -43,3 +43,5 @@ expansions:
       quadrillions: Q
   bungee:
     check_interval: 30
+  localtime:
+    date_format: dd/MM/yyyy hh:mma

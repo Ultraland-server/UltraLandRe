@@ -2501,3 +2501,33 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [00:43:49] [Server thread/INFO]: [TAB] Disabled in 0ms
 [00:43:49] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [00:43:49] [Server thread/INFO]: [TAB] Enabled in 4ms
+[00:44:09] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:44:09] [Server thread/INFO]: [TAB] Disabled in 0ms
+[00:44:09] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:44:09] [Server thread/INFO]: [TAB] Enabled in 6ms
+[00:45:06] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:45:06] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:45:06] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:45:06] [Server thread/INFO]: [TAB] Enabled in 5ms
+[00:46:08] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse ItsSoulTime %player_time%
+[00:46:24] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:46:24] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:46:24] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:46:24] [Server thread/INFO]: [TAB] Enabled in 5ms
+[00:46:53] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:46:53] [Server thread/INFO]: [TAB] Disabled in 0ms
+[00:46:53] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:46:53] [Server thread/INFO]: [TAB] Enabled in 4ms
+[00:48:44] [Server thread/INFO]: ItsSoulTime issued server command: /papi ecloud download LocalTime
+[00:48:44] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:48:49] [Server thread/INFO]: ItsSoulTime issued server command: /papi reload
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: bungee [2.3]
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[00:48:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[00:49:22] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse ItsSoulTime %localtime_time%
+[00:49:23] [Craft Scheduler Thread - 39 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ItsSoulTime's timezone. Will use default timezone.
+[00:49:33] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse ItsSoulTime %localtime_time%

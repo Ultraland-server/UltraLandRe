@@ -10,8 +10,8 @@ header-footer:
     - ""
     - ""
   footer:
-    - "%animation:time%"
-    - "&2Ping: %ping%"
+    - ""
+    - "%time%"
     - ""
     - "&6IP Bedrock » "
     - "&eIP » district-adware.gl.joinmc.link"
