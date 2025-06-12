@@ -4710,3 +4710,15 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [19:24:09] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [19:25:40] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [19:26:01] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:28:22] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:29:19] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:29:56] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:30:17] [Server thread/INFO]: ItsSoulTime issued server command: /tps
+[19:30:19] [Server thread/INFO]: ItsSoulTime issued server command: /lag
+[19:30:39] [Server thread/INFO]: ItsSoulTime issued server command: /lag
+[19:30:43] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:31:09] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:31:58] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:35:19] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:35:44] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:36:28] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
