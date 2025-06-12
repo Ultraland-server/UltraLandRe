@@ -37,7 +37,7 @@ Milestones:
 _dataver: 600
 Rewards:
   List:
-    wheat:
+    pico_3x3:
       Type: ITEM
       Weight: 10.0
       Rarity: common
@@ -60,14 +60,7 @@ Rewards:
       ItemsData:
         '0':
           Type: VANILLA
-          Tag:
-            Value: '{count:64,id:"minecraft:wheat"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    lapis_lazuli:
+    diamond_axe:
       Type: ITEM
       Weight: 10.0
       Rarity: common
@@ -90,14 +83,7 @@ Rewards:
       ItemsData:
         '0':
           Type: VANILLA
-          Tag:
-            Value: '{count:64,id:"minecraft:lapis_lazuli"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    raw_gold:
+    diamond_shovel:
       Type: ITEM
       Weight: 10.0
       Rarity: common
@@ -120,10 +106,49 @@ Rewards:
       ItemsData:
         '0':
           Type: VANILLA
-          Tag:
-            Value: '{count:64,id:"minecraft:raw_gold"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
+    fragmento_de_cristal_extrao:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+    casco_raro:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA

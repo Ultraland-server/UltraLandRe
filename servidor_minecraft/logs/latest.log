@@ -4694,3 +4694,19 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [19:15:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 2 &f&l➤ &bEste Pico no parece normal , parece que al picar
 [19:16:08] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &bParece que al Picar minas 3x3 de bloques
 [19:16:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 4 &bServira para acabar con mas espacio al picar ¿no?
+[19:17:52] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
+[19:18:12] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[19:18:29] [Server thread/INFO]: ItsSoulTime issued server command: /mv spawn
+[19:18:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant efficiency 7
+[19:18:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fortune 4
+[19:18:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[19:19:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[19:19:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[19:19:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[19:20:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[19:20:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fortune 4
+[19:20:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant efficiency 7
+[19:21:12] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:24:09] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:25:40] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[19:26:01] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
