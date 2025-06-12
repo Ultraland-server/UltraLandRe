@@ -304,32 +304,6 @@ Rewards:
           Tag:
             Value: '{count:3,id:"minecraft:enchanted_golden_apple"}'
             DataVersion: 4082
-    diamond_pickaxe:
-      Type: ITEM
-      Weight: 10.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":8,"minecraft:fortune":5,"minecraft:mending":2,"minecraft:unbreaking":8}}},count:1,id:"minecraft:diamond_pickaxe"}'
-            DataVersion: 4082
     pico_3x3:
       Type: ITEM
       Weight: 10.0
@@ -408,4 +382,161 @@ Rewards:
           Type: VANILLA
           Tag:
             Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:unbreaking":7}}},count:1,id:"minecraft:diamond_shovel"}'
+            DataVersion: 4082
+    diamond_pickaxe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":8,"minecraft:fortune":5,"minecraft:mending":2,"minecraft:unbreaking":8}}},count:1,id:"minecraft:diamond_pickaxe"}'
+            DataVersion: 4082
+    fragmento_de_cristal_extrao:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"light_purple","italic":true,"obfuscated":false,"strikethrough":false,"text":"Fragmento de cristal extraño","underlined":true}],"text":""}'',"minecraft:enchantment_glint_override":1b,"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Un extraño fragmento de cristal","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"se
+              ve raro , mejor sera guardarlo","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"y para que crees que servira?","underlined":false}],"text":""}'']},count:10,id:"minecraft:amethyst_shard"}'
+            DataVersion: 4082
+    casco_raro:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Casco Raro","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_helmet"}'
+            DataVersion: 4082
+    peto_raro:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Peto Raro","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_chestplate"}'
+            DataVersion: 4082
+    grebas_raras:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Grebas Raras","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_leggings"}'
+            DataVersion: 4082
+    botas_raras:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Botas Raras","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:feather_falling":5,"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_boots"}'
             DataVersion: 4082
