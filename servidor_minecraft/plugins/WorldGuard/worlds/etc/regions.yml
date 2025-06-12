@@ -14,7 +14,8 @@ regions:
         min: {x: -35, y: -64, z: -68}
         max: {x: 92, y: 318, z: 56}
         members: {}
-        flags: {}
+        flags: {natural-health-regen: allow, creeper-explosion: deny, invincible: allow,
+            mob-damage: deny, pvp: deny, mob-spawning: deny}
         owners: {}
         type: cuboid
         priority: 0

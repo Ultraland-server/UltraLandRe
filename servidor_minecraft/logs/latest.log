@@ -4859,3 +4859,22 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 	at java.base/java.lang.Class.cast(Class.java:4067) ~[?:?]
 	at ProtocolLib.jar/com.comphenix.protocol.reflect.accessors.DefaultFieldAccessor.get(DefaultFieldAccessor.java:28) ~[ProtocolLib.jar:?]
 	... 74 more
+[18:13:26] [Server thread/INFO]: Made ItsSouTime a server operator
+[18:14:13] [Server thread/INFO]: ItsSoulTime issued server command: /gm 1
+[18:14:13] [Server thread/INFO]: [Essentials] ItsSoulTime was denied access to command.
+[18:14:22] [Server thread/INFO]: Made ItsSoulTime a server operator
+[18:15:05] [Server thread/INFO]: ItsSoulTime issued server command: /region list
+[18:15:33] [Server thread/INFO]: ItsSoulTime issued server command: /region flag
+[18:16:41] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn invincible allow
+[18:16:51] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'etc' have been background saved
+[18:17:50] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn
+[18:17:54] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn d
+[18:18:58] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn pvp deny
+[18:19:20] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn mob-spawning deny
+[18:19:21] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'etc' have been background saved
+[18:19:47] [Server thread/INFO]: ItsSoulTime issued server command: /region flag spawn mob-damage deny
+[18:19:51] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'etc' have been background saved
+[18:20:13] [Server thread/INFO]: ItsSoulTime issued server command: /region flag creeper-explosion deny
+[18:20:38] [Server thread/INFO]: ItsSoulTime issued server command: /rg flag -w "etc" spawn creeper-explosion deny
+[18:20:48] [Server thread/INFO]: ItsSoulTime issued server command: /rg flag -w "etc" spawn natural-health-regen allow
+[18:20:51] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'etc' have been background saved
