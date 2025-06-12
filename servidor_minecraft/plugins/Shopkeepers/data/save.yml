@@ -3065,7 +3065,7 @@ data-version: 3|2|4082
     type: villager
     baby: false
     profession: minecraft:cartographer
-    villagerType: minecraft:plains
+    villagerType: minecraft:taiga
     villagerLevel: 4
   recipes:
     '1':

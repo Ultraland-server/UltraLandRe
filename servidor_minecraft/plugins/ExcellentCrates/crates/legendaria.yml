@@ -37,7 +37,7 @@ Milestones:
 _dataver: 600
 Rewards:
   List:
-    firework_rocket:
+    proximamente:
       Type: ITEM
       Weight: 10.0
       Rarity: common
@@ -61,129 +61,5 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{components:{"minecraft:fireworks":{flight_duration:3b}},count:64,id:"minecraft:firework_rocket"}'
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_red","italic":false,"obfuscated":false,"strikethrough":false,"text":"Proximamente","underlined":false}],"text":""}''},count:64,id:"minecraft:bedrock"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    wolf_armour:
-      Type: ITEM
-      Weight: 10.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:1,id:"minecraft:wolf_armor"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    turtle_shell:
-      Type: ITEM
-      Weight: 10.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:1,id:"minecraft:turtle_helmet"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    diamond_horse_armour:
-      Type: ITEM
-      Weight: 10.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:1,id:"minecraft:diamond_horse_armor"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
-    shield:
-      Type: ITEM
-      Weight: 10.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:1,id:"minecraft:shield"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
