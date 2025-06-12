@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749748953644
-  login: 1749748957540
+  logout: 1749749794994
+  login: 1749749490340
   kits:
     inicial: 0
     color: 0
@@ -26,11 +26,11 @@ last-account-name: ItsSoulTime
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
   world-name: etc
-  x: 13.377905691461322
+  x: 4.809899920394537
   y: 220.0
-  z: 0.7563568230961122
-  yaw: -6.461639404296875
-  pitch: 24.616064071655273
+  z: -1.936975760623635
+  yaw: 106.05953979492188
+  pitch: 2.18786883354187
 lastlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
   world-name: etc

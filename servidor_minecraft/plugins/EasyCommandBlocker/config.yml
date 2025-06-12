@@ -29,7 +29,13 @@ tab:
      - "/eenchants list"
      - "/kits inicial"
      - "/kits"
-     - "/skin set []"
+     - "/skin set [Nombre de jugador premium]"
+     - "/skin url [URL] slim"
+     - "/skin url [URL] classic"
+     - "/skin undo"
+     - "/skin update"
+     - "/skin menu"
+     - ""
     
   vip:
     priority: 1
