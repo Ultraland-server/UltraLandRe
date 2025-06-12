@@ -2531,3 +2531,36 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [00:49:22] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse ItsSoulTime %localtime_time%
 [00:49:23] [Craft Scheduler Thread - 39 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ItsSoulTime's timezone. Will use default timezone.
 [00:49:33] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse ItsSoulTime %localtime_time%
+[00:54:42] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:54:42] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:54:42] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:54:42] [Server thread/INFO]: [TAB] Enabled in 5ms
+[00:56:13] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:56:13] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:56:13] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:56:13] [Server thread/INFO]: [TAB] Enabled in 5ms
+[00:56:35] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:56:35] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:56:35] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:56:35] [Server thread/INFO]: [TAB] Enabled in 5ms
+[00:59:21] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[00:59:21] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:59:21] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .ultra: Animation "ultra" has refresh interval of 62, which is not divisible by 50! Using 50.
+[00:59:21] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:59:21] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[00:59:21] [Server thread/INFO]: [TAB] Enabled in 8ms
+[01:00:29] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[01:00:29] [Server thread/INFO]: [TAB] Disabled in 0ms
+[01:00:29] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .ultra: Animation "ultra" has refresh interval of 62, which is not divisible by 50! Using 50.
+[01:00:29] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:00:29] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[01:00:29] [Server thread/INFO]: [TAB] Enabled in 4ms
+[01:02:08] [Server thread/INFO]: ItsSoulTime issued server command: /tab reload
+[01:02:08] [Server thread/INFO]: [TAB] Disabled in 0ms
+[01:02:08] [Server thread/INFO]: [TAB] [WARN] [animations.yml] .ultra: Animation "ultra" has refresh interval of 62, which is not divisible by 50! Using 50.
+[01:02:08] [Server thread/INFO]: [TAB] [WARN] Player ItsSoulTime's group (user) is not in sorting list! Sorting list: admin,mod,builder,vip,default. Player will be sorted on the bottom.
+[01:02:08] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[01:02:08] [Server thread/INFO]: [TAB] Enabled in 4ms
+[01:02:16] [Server thread/INFO]: ItsSoulTime issued server command: /lp user ItsSoulTime parent set admin
+[01:02:16] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [U] (itssoultime)
+[01:02:16] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin

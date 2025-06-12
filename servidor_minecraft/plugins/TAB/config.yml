@@ -2,9 +2,9 @@
 header-footer:
   enabled: true
   header:
-    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - "<#fbff01>&m                                                </#ffc101>"
     - "&fJuegas ahora mismo en"
-    - "&6&lUltra&e&lLand"
+    - "%animation:ultra%"
     - ""
     - "&r&aJugadores : %online% / 20"
     - ""
@@ -15,7 +15,7 @@ header-footer:
     - ""
     - "&6IP Bedrock » "
     - "&eIP » district-adware.gl.joinmc.link"
-    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - "<#fbff01>&m                                                </#ffc101>"
   disable-condition: ''
 
 
@@ -33,7 +33,7 @@ scoreboard-teams:
   anti-override: true
   # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Sorting-players-in-tablist
   sorting-types:
-    - "GROUPS:owner,admin,mod,helper,builder,vip,default"
+    - "GROUPS:admin,mod,builder,vip,default"
     - "PLACEHOLDER_A_TO_Z:%player%"
   case-sensitive-sorting: true
   can-see-friendly-invisibles: false
@@ -41,7 +41,7 @@ scoreboard-teams:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Playerlist-Objective
 playerlist-objective:
-  enabled: true
+  enabled: false
   value: "%ping%"
   fancy-value: "&7Ping: %ping%"
   title: "TAB" # Only visible on Bedrock Edition
