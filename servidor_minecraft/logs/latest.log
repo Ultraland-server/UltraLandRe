@@ -4677,3 +4677,20 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 	... 74 more
 [18:41:28] [Server thread/INFO]: Made ItsSoulTime a server operator
 [18:42:21] [Server thread/INFO]: ItsSoulTime issued server command: /reward
+[19:10:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant efficiency 7
+[19:10:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[19:10:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[19:10:54] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[19:11:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant tunnel 3
+[19:11:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fortune 4
+[19:12:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &b&lPico 3x3
+[19:12:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &b&lPico 3x3
+[19:12:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[19:13:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ Este Pico no parece normal , parece que al picar
+[19:14:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &bParece que al Picar minas 3x3 de bloques
+[19:15:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &bServira para acabar con mas espacion
+[19:15:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 2 &f&l➤ &bEste Pico no parece normal , parece que al picar
+[19:15:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 2 &bEste Pico no parece normal , parece que al picar
+[19:15:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 2 &f&l➤ &bEste Pico no parece normal , parece que al picar
+[19:16:08] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &bParece que al Picar minas 3x3 de bloques
+[19:16:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 4 &bServira para acabar con mas espacio al picar ¿no?

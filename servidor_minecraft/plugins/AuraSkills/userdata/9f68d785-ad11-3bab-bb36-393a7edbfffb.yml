@@ -14,7 +14,7 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 3
-    xp: 757.7732400000002
+    xp: 773.1732400000003
   auraskills/excavation:
     level: 0
     xp: 0.7
@@ -39,4 +39,4 @@ action_bar:
   idle: true
 ability_data:
   auraskills/xp_convert:
-    xp: 27.256800000000176
+    xp: 12.65680000000018
