@@ -5119,3 +5119,152 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [17:08:33] [Server thread/INFO]: ItsSoulTime issued server command: /homes
 [17:08:36] [Server thread/INFO]: ItsSoulTime issued server command: /home
 [17:08:42] [Server thread/INFO]: ItsSoulTime issued server command: /sethome test
+[17:08:53] [Server thread/INFO]: ItsSoulTime issued server command: /delhome test
+[17:08:57] [Server thread/INFO]: ItsSoulTime issued server command: /home test
+[17:09:01] [Server thread/INFO]: ItsSoulTime issued server command: /home test
+[17:09:02] [Server thread/INFO]: ItsSoulTime issued server command: /home test
+[17:09:06] [Server thread/INFO]: ItsSoulTime issued server command: /home test
+[17:09:41] [Server thread/INFO]: [EasyCommandBlocker] Config reloaded!
+[17:10:19] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[17:10:51] [Server thread/INFO]: [EasyCommandBlocker] Config reloaded!
+[17:11:04] [Server thread/INFO]: ItsSoulTime issued server command: /jobs
+[17:11:08] [Server thread/INFO]: ItsSoulTime issued server command: /jobs bp
+[17:11:11] [Server thread/INFO]: ItsSoulTime issued server command: /jobs browse
+[17:11:37] [Server thread/INFO]: [EasyCommandBlocker] Config reloaded!
+[17:11:49] [Server thread/INFO]: ItsSoulTime issued server command: /balance
+[17:11:53] [Server thread/INFO]: ItsSoulTime issued server command: /eco
+[17:12:12] [Server thread/INFO]: ItsSoulTime issued server command: /ecb reload
+[17:12:21] [Server thread/INFO]: ItsSoulTime issued server command: /deop ItsSoulTime
+[17:12:21] [Server thread/INFO]: [ItsSoulTime: Made ItsSoulTime no longer a server operator]
+[17:12:24] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[17:12:24] [Server thread/INFO]: > [Admin] ItsSoulTime  se ah ido del servidor.
+[17:12:29] [User Authenticator #5/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[17:12:30] [Server thread/INFO]: [Admin] ItsSoulTime  a entrado al servidor.
+[17:12:30] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:50053] logged in with entity id 184 at ([etc]8.517708148173476, 220.0, -7.300000011920929)
+[17:12:35] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ItsSoulTime has successfully logged in.
+[17:12:43] [Server thread/INFO]: ItsSoulTime issued server command: /home test
+[17:12:46] [Netty Epoll Server IO #3/ERROR]: [EasyCommandBlocker] Unhandled exception number 8192 occurred in onPacketReceiving(PacketEvent) for EasyCommandBlocker
+java.lang.IllegalStateException: Unable to read field value of private final java.lang.String net.minecraft.network.protocol.game.ServerboundCommandSuggestionPacket.command
+	at ProtocolLib.jar/com.comphenix.protocol.reflect.accessors.DefaultFieldAccessor.get(DefaultFieldAccessor.java:30) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.reflect.StructureModifier.readInternal(StructureModifier.java:302) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.reflect.StructureModifier.read(StructureModifier.java:253) ~[ProtocolLib.jar:?]
+	at EasyCommandBlocker.jar/ecb.ajneb97.spigot.managers.ProtocolLibManager$1.onPacketReceiving(ProtocolLibManager.java:57) ~[EasyCommandBlocker.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.InboundPacketListenerSet.invokeListener(InboundPacketListenerSet.java:25) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.lambda$invoke$0(PacketListenerSet.java:123) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.timing.TimingTracker.lambda$static$0(TimingTracker.java:7) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:123) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:102) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.PacketFilterManager.postPacketToListeners(PacketFilterManager.java:528) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.PacketFilterManager.invokeInboundPacketListeners(PacketFilterManager.java:509) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processInboundInternal(NettyChannelInjector.java:455) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processInbound(NettyChannelInjector.java:439) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.InboundPacketInterceptor.channelRead(InboundPacketInterceptor.java:47) ~[ProtocolLib.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.InboundProtocolReader.channelRead(InboundProtocolReader.java:25) ~[ProtocolLib.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.flow.FlowControlHandler.dequeue(FlowControlHandler.java:202) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.flow.FlowControlHandler.channelRead(FlowControlHandler.java:164) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.flush.FlushConsolidationHandler.channelRead(FlushConsolidationHandler.java:152) ~[netty-handler-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:509) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:407) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.protocol.game.ServerboundClientTickEndPacket to net.minecraft.network.protocol.game.ServerboundCommandSuggestionPacket
+	at java.base/java.lang.Class.cast(Class.java:4067) ~[?:?]
+	at ProtocolLib.jar/com.comphenix.protocol.reflect.accessors.DefaultFieldAccessor.get(DefaultFieldAccessor.java:28) ~[ProtocolLib.jar:?]
+	... 74 more
+[17:12:51] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[17:12:53] [Server thread/INFO]: ItsSoulTime issued server command: /skills
+[17:13:20] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[17:13:25] [Server thread/INFO]: ItsSoulTime issued server command: /reward
+[17:13:28] [Server thread/INFO]: ItsSoulTime issued server command: /rewards
+[17:13:35] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[17:14:08] [Server thread/INFO]: Made ItsSoulTime a server operator
+[17:14:13] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[17:14:55] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set excellentenchants.command.list true
+[17:14:58] [Server thread/INFO]: ItsSoulTime issued server command: /deop ItsSoulTime
+[17:14:58] [Server thread/INFO]: [ItsSoulTime: Made ItsSoulTime no longer a server operator]
+[17:15:00] [Server thread/INFO]: ItsSoulTime issued server command: /menu
+[17:15:21] [Server thread/INFO]: Made ItsSoulTime a server operator
+[17:15:28] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[17:15:44] [Server thread/INFO]: ItsSoulTime issued server command: /ecb reload
+[17:15:48] [Server thread/INFO]: ItsSoulTime issued server command: /deop ItsSoulTime
+[17:15:48] [Server thread/INFO]: [ItsSoulTime: Made ItsSoulTime no longer a server operator]
+[17:15:53] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants help
+[17:16:01] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[17:16:01] [Server thread/INFO]: > [Admin] ItsSoulTime  se ah ido del servidor.
+[17:16:04] [User Authenticator #6/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[17:16:06] [Server thread/INFO]: [Admin] ItsSoulTime  a entrado al servidor.
+[17:16:06] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:43571] logged in with entity id 185 at ([etc]8.517708148173476, 220.0, -7.300000011920929)
+[17:16:11] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ItsSoulTime has successfully logged in.
+[17:16:14] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants
+[17:16:17] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[17:16:29] [Server thread/INFO]: Made ItsSoulTime a server operator
+[17:16:49] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set excellentenchants.command
+[17:16:49] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[17:16:49] [luckperms-command-executor/INFO]: [LP] LOG > permission set excellentenchants.command true
+[17:16:55] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set excellentenchants.command.list true
+[17:16:59] [Server thread/INFO]: ItsSoulTime issued server command: /deop ItsSoulTime
+[17:16:59] [Server thread/INFO]: [ItsSoulTime: Made ItsSoulTime no longer a server operator]
+[17:17:04] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[17:17:15] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants help
+[17:17:17] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants help
+[17:17:23] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[17:17:58] [Server thread/INFO]: Made ItsSoulTime a server operator
+[17:18:12] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[17:18:19] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set excellentenchants.command true
+[17:18:33] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set excellentenchants.command.list true
+[17:18:42] [Server thread/INFO]: ItsSoulTime issued server command: /lp group default permission set excellentenchants.command.list true
+[17:18:42] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (default)
+[17:18:42] [luckperms-command-executor/INFO]: [LP] LOG > permission set excellentenchants.command.list true

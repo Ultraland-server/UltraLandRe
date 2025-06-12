@@ -19,6 +19,15 @@ tab:
      - "/back"
      - "/sethome"
      - "/home"
+     - "/sethome"
+     - "/homes"
+     - "/skills"
+     - "/reward"
+     - "/rewards"
+     - "/jobs browse"
+     - "/balance"
+     - "/eenchants list"
+    
   vip:
     priority: 1
     extends: default
