@@ -35,7 +35,7 @@ tab:
      - "/skin undo"
      - "/skin update"
      - "/skin menu"
-     - ""
+     - "/tpahere"
     
   vip:
     priority: 1
