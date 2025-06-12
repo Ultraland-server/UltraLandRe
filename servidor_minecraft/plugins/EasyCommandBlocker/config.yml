@@ -27,6 +27,9 @@ tab:
      - "/jobs browse"
      - "/balance"
      - "/eenchants list"
+     - "/kits inicial"
+     - "/kits"
+     - "/skin set []"
     
   vip:
     priority: 1
